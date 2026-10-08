@@ -21,3 +21,25 @@
 
 ## À décider (8 October 2026)
 - 8 October 2026 : version retenue (15 s ou 20 s), niveau du boost, publication et plateforme. Rien n'est publié. (8 October 2026)
+
+## 8 October 2026 : version 2 (B 7,5 s puis A 12,5 s)
+- 8 October 2026 : durées : B = 7,5 s en premier, A = 12,5 s, total 20 s ; fichier `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/montage_20s_B7.5_A12.5.mp4`. Les anciens montages 15 s et 20 s (10+10) sont supprimés. (8 October 2026)
+- 8 October 2026 : A garde son étalonnage d'origine, B garde le grade C ; vignette sombre (0,50) sur les deux. (8 October 2026)
+- 8 October 2026 : titre en haut (haut du groupe à 90 px) ; sous-titres « Before » (sur B) et « After » (sur A) en bas, Vogun Medium blanc, apparition 1 s, reste 2 s, sortie 1 s, début 0,5 s après chaque clip. (8 October 2026)
+- 8 October 2026 : son : plus de boum ; au raccord (7,5 s) la musique monte de 4 dB en 0,25 s puis redescend en 0,5 s ; fade in et out 0,25 s easeOutBack. (8 October 2026)
+- 8 October 2026 : miniature depuis la vidéo A (image 280, poisson centré), titre en haut : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/thumbnail_A_titre_haut.png`. Recette : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/Scripts/FinalMontage2.py` (réglages dans CFG). (8 October 2026)
+
+## 9 October 2026 : miniatures depuis la photo (3 étalonnages)
+- 9 October 2026 : source `/Users/zenray/Downloads/View recent photos.png` (1179x2556), copie `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/photo/photo_source.png`. Bandes noires mesurées et coupées (lignes 230 à 2326, reste 1179x2096, rapport 9:16), mise à 1080x1920. (9 October 2026)
+- 9 October 2026 : titre jaune en deux blocs (鯉陶器 en haut, « Koi Tōki » et « Carpe Céramique » collés en bas), vignette sombre 0,70. (9 October 2026)
+- 9 October 2026 : trois étalonnages : 1 naturel clair, 2 doré chaud, 3 bleu froid profond. Fichiers `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/thumb_photo_1_neutre.png`, `thumb_photo_2_chaud.png`, `thumb_photo_3_froid.png` ; recette `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/Scripts/ThumbPhoto.py`. (9 October 2026)
+
+## 9 October 2026 : son F1 ajouté par remux, miniature 3 validée
+- 9 October 2026 : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/sound-botw-interact/final/F1_Trigger_minus20ms.flac` (6,27 s, 48 kHz) mélangé à la musique dès t = 0 s (son déjà calé : montée inversée 1,2 s puis impact à 1,2 s), sans décalage ; vidéo copiée sans réencodage (hvc1), audio AAC 192 k, limiteur 0,95. Fichier `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/montage_20s_B7.5_A12.5_sfx.mp4` (l'ancien sans SFX est conservé). (9 October 2026)
+- 9 October 2026 : miniature validée par Matthieu : la 3 (bleu froid), copiée en `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/thumbnail_FINAL_photo_bleu_froid.png`. Les autres sont rangées dans `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/archive/` : thumb_photo_1_neutre.png, thumb_photo_2_chaud.png, thumbnail_A_titre_haut.png. (9 October 2026)
+
+## 9 October 2026 : version 3 (grade froid sur A, nouveau SFX sur les sous-titres)
+- 9 October 2026 : fichier `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/montage_20s_B7.5_A12.5_v3.mp4` (20,000 s, 480 images, hvc1 ; audio AAC). Les versions précédentes restent dans le dossier. (9 October 2026)
+- 9 October 2026 : A (deuxième partie) reçoit le grade bleu froid validé pour la miniature 3 (gain 0,80/0,98/1,20, gamma 1,05, contraste 1,30, saturation 1,25) et une vignette sombre 0,70 ; B garde le grade C et sa vignette 0,50. (9 October 2026)
+- 9 October 2026 : ancien SFX F1 retiré (le montage est reconstruit depuis la musique seule). Nouveau son : `/Users/zenray/Downloads/DS 26. Inv Open.mp3`, copie `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/sound-inv-open/DS26_Inv_Open.mp3` (0,89 s, 44,1 kHz, pic 0,16 normalisé à 0,5). Attaque mesurée à 28,5 ms (2 % de l'énergie maximale) : le fichier démarre 0,0285 s avant l'apparition de chaque sous-titre, donc à 0,4715 s (« Before », début à 0,5 s) et 7,9715 s (« After », début à 8,0 s). (9 October 2026)
+- 9 October 2026 : recette : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/Scripts/FinalMontage2.py` (CFG.gradeA, CFG.sfx, CFG.sub.start). (9 October 2026)

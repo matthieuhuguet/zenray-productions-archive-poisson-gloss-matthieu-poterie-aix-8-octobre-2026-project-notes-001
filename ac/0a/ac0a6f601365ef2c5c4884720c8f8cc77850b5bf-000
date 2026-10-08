@@ -1,0 +1,126 @@
+# Index du son BotW Interact (retouche sonore), 8 October 2026
+
+- 8 October 2026 : atelier : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/sound-botw-interact`. Dossier rattaché au projet Assets `poisson-gloss-matthieu-poterie-aix-8-octobre-2026` (il vit dans son atelier surveillé, donc inventorié et archivé avec lui). (8 October 2026)
+- 8 October 2026 : sujet distinct du montage poterie : ici, retouche du son « BotW - Interact Sound.flac » (original dans `/Users/zenray/Downloads/`). (8 October 2026)
+- 8 October 2026 : résultat validé par Matthieu : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/sound-botw-interact/final/F1_Trigger_minus20ms.flac` (copie aussi dans `/Users/zenray/.claude/skills/zenray-edit/assets/sound/`). Recette : `/Users/zenray/.claude/skills/zenray-edit/scripts/SoundF1.py`, protocole : `/Users/zenray/.claude/skills/zenray-edit/references/SoundDesign.md`. (8 October 2026)
+- 8 October 2026 : seuls les essais jusqu'à F1 sont consignés dans le skill ; les essais G (après F1) n'ont pas fonctionné et restent ici seulement comme fichiers. (8 October 2026)
+- 8 October 2026 : `out/` contient les rendus WAV 24 bits et FLAC ; `deliver/` contient les copies envoyées à Matthieu (mêmes fichiers). (8 October 2026)
+
+## Fichiers (8 October 2026)
+| Chemin relatif | Octets | SHA256 (12) | Rôle | Date |
+|---|---|---|---|---|
+| `PROTOCOL_DRAFT.md` | 1003 | ea1da9dbd51b | working draft of the protocol (the validated protocol is in zenray-edit/references/SoundDesign.md) | 8 October 2026 |
+| `Scripts/AmIndex.py` | 937 | 06ec0130efa6 | script used to generate the rounds (relative paths: run from sound-botw-interact/) | 8 October 2026 |
+| `Scripts/MakeDecomp.py` | 3719 | d73c3ac08823 | script used to generate the rounds (relative paths: run from sound-botw-interact/) | 8 October 2026 |
+| `Scripts/MakeFinal.py` | 1382 | 98d675e9183c | script used to generate the rounds (relative paths: run from sound-botw-interact/) | 8 October 2026 |
+| `Scripts/MakeNine.py` | 4198 | 0761a5b2bb0c | script used to generate the rounds (relative paths: run from sound-botw-interact/) | 8 October 2026 |
+| `Scripts/MakeQ.py` | 1637 | 3cf33fbe9d50 | script used to generate the rounds (relative paths: run from sound-botw-interact/) | 8 October 2026 |
+| `Scripts/MakeR.py` | 2301 | bc543cfdafcc | script used to generate the rounds (relative paths: run from sound-botw-interact/) | 8 October 2026 |
+| `Scripts/MakeSimple.py` | 2075 | 5a8b75d56ea8 | script used to generate the rounds (relative paths: run from sound-botw-interact/) | 8 October 2026 |
+| `Scripts/MakeVariants.py` | 6581 | 9c89688a2c30 | script used to generate the rounds (relative paths: run from sound-botw-interact/) | 8 October 2026 |
+| `Scripts/Rough.py` | 1086 | 1c8721a79ec9 | script used to generate the rounds (relative paths: run from sound-botw-interact/) | 8 October 2026 |
+| `deliver/F1_Trigger_minus20ms.flac` | 392461 | 47196f7a85e3 | VALIDATED by Matthieu: N1 reverse bloom + N2 octave-down body, trigger -20 ms (best; only residual grain) | 8 October 2026 |
+| `deliver/F1_Trigger_minus20ms.wav` | 1806380 | 921a979050eb | VALIDATED by Matthieu: N1 reverse bloom + N2 octave-down body, trigger -20 ms (best; only residual grain) | 8 October 2026 |
+| `deliver/F2_Trigger_0ms.flac` | 388857 | 484c8b768544 | offset variant 0 ms (not retained) | 8 October 2026 |
+| `deliver/F2_Trigger_0ms.wav` | 1806380 | c6bff5c66db5 | offset variant 0 ms (not retained) | 8 October 2026 |
+| `deliver/F3_Trigger_plus20ms.flac` | 396449 | f127cafabd53 | offset variant +20 ms (not retained) | 8 October 2026 |
+| `deliver/F3_Trigger_plus20ms.wav` | 1806380 | e66cf5c49983 | offset variant +20 ms (not retained) | 8 October 2026 |
+| `deliver/G1_Additive.flac` | 327217 | fb2fed82cdea | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `deliver/G1_Additive.wav` | 1806380 | 4bafa05d9bd0 | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `deliver/G2_Flatten.flac` | 328434 | 82fc7efbd18d | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `deliver/G2_Flatten.wav` | 1806380 | 74002d7cfc0b | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `deliver/G3_SplitKeepAttack.flac` | 328162 | 9d27677b3f67 | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `deliver/G3_SplitKeepAttack.wav` | 1806380 | db2c3914c966 | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `deliver/N1_ReverseBloom.flac` | 315041 | 4c22419d0bbb | round 6: nine different treatments; N1 ReverseBloom judged exceptional | 8 October 2026 |
+| `deliver/N2_TempleOctaveDown.flac` | 325230 | daff6bf9f87a | round 6; N2 TempleOctaveDown = the octave-down body used in F1 | 8 October 2026 |
+| `deliver/N3_MusicBox.flac` | 216421 | 7170548a0830 | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `deliver/N4_Shimmer.flac` | 229389 | 5987a890a382 | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `deliver/N5_HarpGliss.flac` | 333625 | 8eaed458fc4c | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `deliver/N6_CallResponse.flac` | 322662 | d2fa3f6a45fc | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `deliver/N7_FMTine.flac` | 368673 | 1667e7c2d4bf | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `deliver/N8_FilterBloom.flac` | 310066 | 2bf6b3d40d02 | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `deliver/N9_ShoChord.flac` | 341792 | faffc9f3808b | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `deliver/P1_Smooth.flac` | 207600 | b576b3f1d0f0 | round 3: smoother hall, no added air (P2 judged interesting, base of rounds 4 and 6) | 8 October 2026 |
+| `deliver/P2_Smooth_TapBowl.flac` | 271721 | 029349ff963b | round 3: smoother hall, no added air (P2 judged interesting, base of rounds 4 and 6) | 8 October 2026 |
+| `deliver/P3_Smooth_BowlBloom.flac` | 321015 | 54f9006f0b0c | round 3: smoother hall, no added air (P2 judged interesting, base of rounds 4 and 6) | 8 October 2026 |
+| `deliver/Q1_Satisfying.flac` | 293065 | 2e1be6f35039 | round 4: three variations from P2 (rejected: "nul") | 8 October 2026 |
+| `deliver/Q2_Addictive.flac` | 300530 | 5df4584cb099 | round 4: three variations from P2 (rejected: "nul") | 8 October 2026 |
+| `deliver/Q3_Relaxing.flac` | 342998 | 8b7afed471b5 | round 4: three variations from P2 (rejected: "nul") | 8 October 2026 |
+| `deliver/R1_Glass.flac` | 316753 | 3ad7aed2e405 | round 5: glass, slowed, wood directions from P2 | 8 October 2026 |
+| `deliver/R2_Slowed.flac` | 369014 | d9d0780b08d4 | round 5: glass, slowed, wood directions from P2 | 8 October 2026 |
+| `deliver/R3_Wood.flac` | 282404 | e5be1fa0d8d6 | round 5: glass, slowed, wood directions from P2 | 8 October 2026 |
+| `deliver/S1_Original_Polished.flac` | 307292 | cd5217043119 | round 2: source kept dominant, light polish, tiny tap/bowl (close, still grainy) | 8 October 2026 |
+| `deliver/S2_Original_SoftTap_Bowl.flac` | 366111 | 2da9af8ada54 | round 2: source kept dominant, light polish, tiny tap/bowl (close, still grainy) | 8 October 2026 |
+| `deliver/S3_Original_BowlBloom.flac` | 466070 | c6e4258504a7 | round 2: source kept dominant, light polish, tiny tap/bowl (close, still grainy) | 8 October 2026 |
+| `deliver/V1_KotoShrine.flac` | 433365 | 9d89e1ba488d | round 1: koto + suzu + rin layered on the source (rejected: "horrible") | 8 October 2026 |
+| `deliver/V1_KotoShrine.wav` | 979244 | f7592dd84458 | round 1: koto + suzu + rin layered on the source (rejected: "horrible") | 8 October 2026 |
+| `deliver/V2_SuzuSparkle.flac` | 384582 | a21464b16a3c | round 1: koto + suzu + rin layered on the source (rejected: "horrible") | 8 October 2026 |
+| `deliver/V2_SuzuSparkle.wav` | 633644 | fe4293c538a9 | round 1: koto + suzu + rin layered on the source (rejected: "horrible") | 8 October 2026 |
+| `deliver/V3_RinZen.flac` | 541730 | 25688ea175c9 | round 1: koto + suzu + rin layered on the source (rejected: "horrible") | 8 October 2026 |
+| `deliver/V3_RinZen.wav` | 1382444 | 72fc2ad0c154 | round 1: koto + suzu + rin layered on the source (rejected: "horrible") | 8 October 2026 |
+| `final/F1_Trigger_minus20ms.flac` | 392461 | 47196f7a85e3 | VALIDATED reference F1 (copy; the skill zenray-edit holds the recipe and the .flac) | 8 October 2026 |
+| `final/F1_Trigger_minus20ms.wav` | 1806380 | 921a979050eb | VALIDATED reference F1 (copy; the skill zenray-edit holds the recipe and the .flac) | 8 October 2026 |
+| `out/F1_Trigger_minus20ms.flac` | 392461 | 47196f7a85e3 | VALIDATED by Matthieu: N1 reverse bloom + N2 octave-down body, trigger -20 ms (best; only residual grain) | 8 October 2026 |
+| `out/F1_Trigger_minus20ms.wav` | 1806380 | 921a979050eb | VALIDATED by Matthieu: N1 reverse bloom + N2 octave-down body, trigger -20 ms (best; only residual grain) | 8 October 2026 |
+| `out/F2_Trigger_0ms.flac` | 388857 | 484c8b768544 | offset variant 0 ms (not retained) | 8 October 2026 |
+| `out/F2_Trigger_0ms.wav` | 1806380 | c6bff5c66db5 | offset variant 0 ms (not retained) | 8 October 2026 |
+| `out/F3_Trigger_plus20ms.flac` | 396449 | f127cafabd53 | offset variant +20 ms (not retained) | 8 October 2026 |
+| `out/F3_Trigger_plus20ms.wav` | 1806380 | e66cf5c49983 | offset variant +20 ms (not retained) | 8 October 2026 |
+| `out/G0_F1_rebuilt_reference.wav` | 1806380 | 921a979050eb | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `out/G1_Additive.flac` | 327217 | fb2fed82cdea | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `out/G1_Additive.wav` | 1806380 | 4bafa05d9bd0 | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `out/G2_Flatten.flac` | 328434 | 82fc7efbd18d | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `out/G2_Flatten.wav` | 1806380 | 74002d7cfc0b | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `out/G3_SplitKeepAttack.flac` | 328162 | 9d27677b3f67 | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `out/G3_SplitKeepAttack.wav` | 1806380 | db2c3914c966 | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `out/G4_HallOnly_uncleaned.wav` | 1806380 | 310c50cc714c | round 8: three anti-grain hypotheses on F1 (none worked, NOT recorded in the skill) | 8 October 2026 |
+| `out/N1_ReverseBloom.flac` | 315041 | 4c22419d0bbb | round 6: nine different treatments; N1 ReverseBloom judged exceptional | 8 October 2026 |
+| `out/N1_ReverseBloom.wav` | 1460780 | def314cbe169 | round 6: nine different treatments; N1 ReverseBloom judged exceptional | 8 October 2026 |
+| `out/N2_TempleOctaveDown.flac` | 325230 | daff6bf9f87a | round 6; N2 TempleOctaveDown = the octave-down body used in F1 | 8 October 2026 |
+| `out/N2_TempleOctaveDown.wav` | 1654316 | 0e0e4ff462c2 | round 6; N2 TempleOctaveDown = the octave-down body used in F1 | 8 October 2026 |
+| `out/N3_MusicBox.flac` | 216421 | 7170548a0830 | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N3_MusicBox.wav` | 1230380 | 6589d5381759 | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N4_Shimmer.flac` | 229389 | 5987a890a382 | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N4_Shimmer.wav` | 1748780 | c379f947a302 | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N5_HarpGliss.flac` | 333625 | 8eaed458fc4c | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N5_HarpGliss.wav` | 1403180 | b50e2a72765b | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N6_CallResponse.flac` | 322662 | d2fa3f6a45fc | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N6_CallResponse.wav` | 1403180 | f3302e966636 | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N7_FMTine.flac` | 368673 | 1667e7c2d4bf | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N7_FMTine.wav` | 1403180 | f55bf6619f6d | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N8_FilterBloom.flac` | 310066 | 2bf6b3d40d02 | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N8_FilterBloom.wav` | 1403180 | 6076318446ec | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N9_ShoChord.flac` | 341792 | faffc9f3808b | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/N9_ShoChord.wav` | 1324838 | 1294ab6d93cc | round 6: nine different treatments (N3 to N9 not retained) | 8 October 2026 |
+| `out/P1_Smooth.flac` | 207600 | b576b3f1d0f0 | round 3: smoother hall, no added air (P2 judged interesting, base of rounds 4 and 6) | 8 October 2026 |
+| `out/P1_Smooth.wav` | 884780 | b0cb53c0f736 | round 3: smoother hall, no added air (P2 judged interesting, base of rounds 4 and 6) | 8 October 2026 |
+| `out/P2_Smooth_TapBowl.flac` | 271721 | 029349ff963b | round 3: smoother hall, no added air (P2 judged interesting, base of rounds 4 and 6) | 8 October 2026 |
+| `out/P2_Smooth_TapBowl.wav` | 999980 | 21f55a71a7a5 | round 3: smoother hall, no added air (P2 judged interesting, base of rounds 4 and 6) | 8 October 2026 |
+| `out/P3_Smooth_BowlBloom.flac` | 321015 | 54f9006f0b0c | round 3: smoother hall, no added air (P2 judged interesting, base of rounds 4 and 6) | 8 October 2026 |
+| `out/P3_Smooth_BowlBloom.wav` | 1172780 | 2816e32c9884 | round 3: smoother hall, no added air (P2 judged interesting, base of rounds 4 and 6) | 8 October 2026 |
+| `out/Q1_Satisfying.flac` | 293065 | 2e1be6f35039 | round 4: three variations from P2 (rejected: "nul") | 8 October 2026 |
+| `out/Q1_Satisfying.wav` | 1086380 | 66bbe8e5550f | round 4: three variations from P2 (rejected: "nul") | 8 October 2026 |
+| `out/Q2_Addictive.flac` | 300530 | 5df4584cb099 | round 4: three variations from P2 (rejected: "nul") | 8 October 2026 |
+| `out/Q2_Addictive.wav` | 1143980 | 8839c5e9f04b | round 4: three variations from P2 (rejected: "nul") | 8 October 2026 |
+| `out/Q3_Relaxing.flac` | 342998 | 8b7afed471b5 | round 4: three variations from P2 (rejected: "nul") | 8 October 2026 |
+| `out/Q3_Relaxing.wav` | 1316780 | c3c0bb106840 | round 4: three variations from P2 (rejected: "nul") | 8 October 2026 |
+| `out/R1_Glass.flac` | 316753 | 3ad7aed2e405 | round 5: glass, slowed, wood directions from P2 | 8 October 2026 |
+| `out/R1_Glass.wav` | 1143980 | 6b9731c06fce | round 5: glass, slowed, wood directions from P2 | 8 October 2026 |
+| `out/R2_Slowed.flac` | 369014 | d9d0780b08d4 | round 5: glass, slowed, wood directions from P2 | 8 October 2026 |
+| `out/R2_Slowed.wav` | 1443998 | 46e5a9782f15 | round 5: glass, slowed, wood directions from P2 | 8 October 2026 |
+| `out/R3_Wood.flac` | 282404 | e5be1fa0d8d6 | round 5: glass, slowed, wood directions from P2 | 8 October 2026 |
+| `out/R3_Wood.wav` | 1057580 | b56068f52bfd | round 5: glass, slowed, wood directions from P2 | 8 October 2026 |
+| `out/S1_Original_Polished.flac` | 307292 | cd5217043119 | round 2: source kept dominant, light polish, tiny tap/bowl (close, still grainy) | 8 October 2026 |
+| `out/S1_Original_Polished.wav` | 884780 | 843c40dc41bb | round 2: source kept dominant, light polish, tiny tap/bowl (close, still grainy) | 8 October 2026 |
+| `out/S2_Original_SoftTap_Bowl.flac` | 366111 | 2da9af8ada54 | round 2: source kept dominant, light polish, tiny tap/bowl (close, still grainy) | 8 October 2026 |
+| `out/S2_Original_SoftTap_Bowl.wav` | 999980 | 227b35741277 | round 2: source kept dominant, light polish, tiny tap/bowl (close, still grainy) | 8 October 2026 |
+| `out/S3_Original_BowlBloom.flac` | 466070 | c6e4258504a7 | round 2: source kept dominant, light polish, tiny tap/bowl (close, still grainy) | 8 October 2026 |
+| `out/S3_Original_BowlBloom.wav` | 1172780 | fce8dd2b8cbe | round 2: source kept dominant, light polish, tiny tap/bowl (close, still grainy) | 8 October 2026 |
+| `out/V1_KotoShrine.flac` | 433365 | 9d89e1ba488d | round 1: koto + suzu + rin layered on the source (rejected: "horrible") | 8 October 2026 |
+| `out/V1_KotoShrine.wav` | 979244 | f7592dd84458 | round 1: koto + suzu + rin layered on the source (rejected: "horrible") | 8 October 2026 |
+| `out/V2_SuzuSparkle.flac` | 384582 | a21464b16a3c | round 1: koto + suzu + rin layered on the source (rejected: "horrible") | 8 October 2026 |
+| `out/V2_SuzuSparkle.wav` | 633644 | fe4293c538a9 | round 1: koto + suzu + rin layered on the source (rejected: "horrible") | 8 October 2026 |
+| `out/V3_RinZen.flac` | 541730 | 25688ea175c9 | round 1: koto + suzu + rin layered on the source (rejected: "horrible") | 8 October 2026 |
+| `out/V3_RinZen.wav` | 1382444 | 72fc2ad0c154 | round 1: koto + suzu + rin layered on the source (rejected: "horrible") | 8 October 2026 |
+| `src/orig.flac` | 57369 | 0d0a0028ab46 | source: original game sound or derived stretch | 8 October 2026 |
+| `src/slow.wav` | 296234 | 4960ec3dc6cf | source: original game sound or derived stretch | 8 October 2026 |

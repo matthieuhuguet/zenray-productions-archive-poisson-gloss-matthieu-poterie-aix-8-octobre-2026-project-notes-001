@@ -3,3 +3,8 @@
 - Project ID: poisson-gloss-matthieu-poterie-aix-8-octobre-2026. (8 October 2026)
 - Canonical feedback: /Users/zenray/.claude/Memory1/Projects/poisson-gloss-matthieu-poterie-aix-8-octobre-2026/FEEDBACK.md. (8 October 2026)
 - Append dated decisions and verified knowledge here; retain existing entries. (8 October 2026)
+
+## 8 October 2026 : Son BotW Interact rattaché à ce projet (8 October 2026)
+
+- 8 October 2026 : le chantier sonore a été déplacé dans l'atelier : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/sound-botw-interact/` (sources, scripts, rendus, envois). Index et rôle de chaque fichier : `/Users/zenray/.claude/Memory1/Projects/poisson-gloss-matthieu-poterie-aix-8-octobre-2026/SoundIndex.md`. (8 October 2026)
+- 8 October 2026 : résultat validé : `final/F1_Trigger_minus20ms.flac` ; recette et protocole dans le skill zenray-edit (`scripts/SoundF1.py`, `references/SoundDesign.md`, section « Sound Design / Edit Sound »). Les essais après F1 ne sont pas consignés dans le skill. (8 October 2026)
