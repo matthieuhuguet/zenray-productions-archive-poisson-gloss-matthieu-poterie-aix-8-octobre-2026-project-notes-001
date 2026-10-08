@@ -1626,3 +1626,535 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:17:00 +0200)
 
 > Les 3 options sont prêtes, je les envoie pendant que la v4 finit de se rendre. (9 October 2026, 00:17:00 +0200)
+
+## 9 October 2026, 00:18:20 +0200 : Iteration
+
+<!-- feedback-event:82c13beef8cddb5d6b3acc6b91d77eaf321eb8c374dc4d30c6d957bc885155b1 (9 October 2026, 00:18:20 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:18:20 +0200)
+- Source: checkpoint:claude:fa4b854c-d32b-463e-9994-34b34d998356. (9 October 2026, 00:18:20 +0200)
+
+> v4: grade froid A a moitie de force + sat 1.20, vignette 0.70; DS10 Mail Open au debut du fade out des sous-titres (3.5 s et 11.0 s), Inv Open sur les apparitions. 3 options de force en images fixes (0.35/0.50/0.65). Prochain: choix de la force, publication apres accord. (9 October 2026, 00:18:20 +0200)
+
+## 9 October 2026, 00:18:36 +0200 : Iteration
+
+<!-- feedback-event:7033a6e0d3da98033d29a857a24dc56874382c27c5f952b7ecbdbc4ecc4f6d8e (9 October 2026, 00:18:36 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:18:36 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:18:36 +0200)
+
+> La v4 est rendue : le grade froid de A est moitié moins fort et le son « Mail Open » est placé à la disparition des sous-titres. Je ne l'ai pas écoutée, donc le calage et le niveau du son restent à vérifier à l'oreille. (9 October 2026, 00:18:36 +0200)
+>
+> - **Grade de A :** la force du bleu froid est divisée par deux (gain 0,90 / 0,99 / 1,10, gamma 1,025, contraste 1,15). La saturation est à 1,20, donc un peu plus haute que la moitié de 1,25. La vignette reste à 0,70. (9 October 2026, 00:18:36 +0200)
+> - **Les 3 images pour trancher :** je te les ai envoyées sur la même image de A, avec l'original en premier : force 0,35 (option 1), force 0,50 (option 2, celle de la v4) et force 0,65 (option 3). (9 October 2026, 00:18:36 +0200)
+> - **Mail Open :** j'ai ajouté `DS 10. Mail Open.mp3` au projet (1,41 s). Son attaque est à 46,4 ms, et je le cale au début du fade out de chaque sous-titre : attaque à 3,5 s pour « Before » et à 11,0 s pour « After ». Inv Open reste sur les apparitions. (9 October 2026, 00:18:36 +0200)
+> - **Vérifié :** 20,000 s, 480 images, audio AAC, pic à -3,1 dB sans écrêtage. J'ai aussi généré une planche d'images autour de chaque sous-titre, mais je ne l'ai pas relue. L'index du projet et le checkpoint sont à jour, mais la sauvegarde cloud n'est pas confirmée. (9 October 2026, 00:18:36 +0200)
+>
+> J'ai lu « au moment où il disparaît » comme le début du fade out (3,5 s / 11,0 s). Si tu le veux plutôt quand il a fini de disparaître (4,5 s / 12,0 s), c'est un réglage à changer, dis-le-moi. (9 October 2026, 00:18:36 +0200)
+>
+> La vidéo (34 Mo) est trop lourde pour l'envoi mobile, elle n'est visible que dans l'app desktop : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/montage_20s_B7.5_A12.5_v4.mp4`. Les versions précédentes sont conservées. (9 October 2026, 00:18:36 +0200)
+>
+> Dis-moi quelle force de grade tu gardes (0,35, 0,50 ou 0,65), et sur quelle plateforme tu veux publier. (9 October 2026, 00:18:36 +0200)
+
+## 9 October 2026, 00:20:40 +0200 : Prompt
+
+<!-- feedback-event:62e1d243f68d2993bc823300519106fa6be89bf6434cdba1f81685a8512ce6be (9 October 2026, 00:20:40 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:20:40 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:20:40 +0200)
+
+> ultra rapide remux sur le (after disparition ) deuxième mail open sfx utilise plutôt l'attaque du sfx /Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/sound-botw-interact go testons (9 October 2026, 00:20:40 +0200)
+
+## 9 October 2026, 00:21:22 +0200 : Iteration
+
+<!-- feedback-event:d022644b725f72dfa693f8678a59006473aab352bff26fa27ebd1cef2dd6c0eb (9 October 2026, 00:21:22 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:21:22 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:21:22 +0200)
+
+> Je relance seulement l'audio (la vidéo v4 est copiée telle quelle), avec l'attaque du SFX botw sur la disparition de « After ». (9 October 2026, 00:21:22 +0200)
+
+## 9 October 2026, 00:21:35 +0200 : Iteration
+
+<!-- feedback-event:d98aa7351e7d0832d817c9045b9e9ec0147218efc92ce3bdac3400460cdf33e5 (9 October 2026, 00:21:35 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:21:35 +0200)
+- Source: checkpoint:claude:fa4b854c-d32b-463e-9994-34b34d998356. (9 October 2026, 00:21:35 +0200)
+
+> v5 remux audio seul: attaque du SFX botw F1 (coupe a 1.225 s, atterrissage 1.235 s) a la disparition de After (11.0 s) a la place du 2e Mail Open; video identique a v4. Prochain: ecoute et validation. (9 October 2026, 00:21:35 +0200)
+
+## 9 October 2026, 00:21:41 +0200 : Iteration
+
+<!-- feedback-event:9fc2aab98d1534aaf608f6aa28143c4964dc4c5135b5ccc9aa92e33c7bdf6cac (9 October 2026, 00:21:41 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:21:41 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:21:41 +0200)
+
+> La v5 est prête : seul l'audio est refait, et la vidéo est identique à celle de la v4 (contrôle d'empreinte). Je ne l'ai pas écoutée, donc c'est à toi de juger. (9 October 2026, 00:21:41 +0200)
+>
+> - **Ce qui change :** à la disparition de « After » (11,0 s), le deuxième Mail Open est remplacé par l'attaque du SFX botw `F1_Trigger_minus20ms`. J'ai coupé le fichier à 1,225 s, juste avant l'atterrissage mesuré à 1,235 s, pour ne pas garder la montée inversée. Le fichier démarre donc à 10,99 s et l'attaque tombe à 11,0 s. (9 October 2026, 00:21:41 +0200)
+> - **Ce qui reste :** Inv Open sur les deux apparitions, et le premier Mail Open à 3,5 s sur la disparition de « Before ». (9 October 2026, 00:21:41 +0200)
+> - **Vérifié :** 20,000 s, audio AAC, pic à -3,5 dB sans écrêtage. (9 October 2026, 00:21:41 +0200)
+> - **Index :** `MontageIndex.md` est à jour et le checkpoint est enregistré. La sauvegarde cloud n'est pas confirmée. (9 October 2026, 00:21:41 +0200)
+>
+> J'ai interprété « l'attaque » comme le moment où le son se pose, pas la montée qui le précède. Si tu veux garder aussi la montée avant l'impact, dis-le-moi. (9 October 2026, 00:21:41 +0200)
+>
+> La vidéo (34 Mo) est trop lourde pour l'envoi mobile, elle n'est visible que dans l'app desktop : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/montage_20s_B7.5_A12.5_v5.mp4`. Les versions v3 et v4 sont conservées. (9 October 2026, 00:21:41 +0200)
+>
+> Dis-moi si ça sonne bien, ou si tu préfères un autre point d'attaque (par exemple le pic d'énergie à 1,52 s), et sur quelle plateforme tu veux publier. (9 October 2026, 00:21:41 +0200)
+
+## 9 October 2026, 00:25:08 +0200 : Prompt
+
+<!-- feedback-event:3b01455a56d27900db5432b859d5c81af96bb80bd51e882bc691841c329106c9 (9 October 2026, 00:25:08 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:25:08 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:25:08 +0200)
+
+> bon enlève simplement le sfx après before (F1_Trigger_minus20ms enlève lui mais garde l'autre) (9 October 2026, 00:25:08 +0200)
+>
+> mais par contre depuis les vidéos source recompute tout depuis le début car des bandes blanches apparaissent disparaissent c'est trop bizarre on dirait une superposition depuis le début trouve la cause et recompute tout jusqu'au resultat final grading etc go. depuis source adaptation 7.5 et 12.5 go (9 October 2026, 00:25:08 +0200)
+
+## 9 October 2026, 00:25:22 +0200 : Prompt
+
+<!-- feedback-event:f43fab84761e05de900cb27cde90fc4091e8cbf60933d724fc5043ea570a67c6 (9 October 2026, 00:25:22 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:25:22 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:25:22 +0200)
+
+> [Image: original 2880x640, displayed at 2000x444. Multiply coordinates by 1.44 to map to original image.] (9 October 2026, 00:25:22 +0200)
+
+## 9 October 2026, 00:25:55 +0200 : Prompt
+
+<!-- feedback-event:3c8bd6779a57d6e308d5590d2cc320c5495ef8027ef42e5629182d171cb715f0 (9 October 2026, 00:25:55 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:25:55 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:25:55 +0200)
+
+> [Image: original 3240x960, displayed at 2000x593. Multiply coordinates by 1.62 to map to original image.] (9 October 2026, 00:25:55 +0200)
+
+## 9 October 2026, 00:26:11 +0200 : Prompt
+
+<!-- feedback-event:ef9b99174b13cb72a8c868ce478479c9dd87b1d82fa382824bcd8f9431a2bae9 (9 October 2026, 00:26:11 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:26:11 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:26:11 +0200)
+
+> [Image: original 2080x520, displayed at 2000x500. Multiply coordinates by 1.04 to map to original image.] (9 October 2026, 00:26:11 +0200)
+
+## 9 October 2026, 00:26:15 +0200 : Iteration
+
+<!-- feedback-event:197a73fe49ca700e32e88592b1cb94140dbe41946686b9f07f83717a9b4153bb (9 October 2026, 00:26:15 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:26:15 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:26:15 +0200)
+
+> Je cherche la cause des bandes blanches : je zoome sur les images interpolées pour voir si l'interpolation crée des superpositions. (9 October 2026, 00:26:15 +0200)
+
+## 9 October 2026, 00:26:21 +0200 : Prompt
+
+<!-- feedback-event:787079c4f3b4d903511ffdcfcc21fa1aca3586ff4518266e7867a9b77a27df50 (9 October 2026, 00:26:21 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:26:21 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:26:21 +0200)
+
+> [Image: original 2800x560, displayed at 2000x400. Multiply coordinates by 1.40 to map to original image.] (9 October 2026, 00:26:21 +0200)
+
+## 9 October 2026, 00:28:03 +0200 : Iteration
+
+<!-- feedback-event:169f6640b914e4f8e4b27a4fa2362a78c68fd58ecf52a5bbdd3eabfb0af2df77 (9 October 2026, 00:28:03 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:28:03 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:28:03 +0200)
+
+> Je lance la même déformation sur B en arrière-plan pendant que je contrôle A et que j'analyse le rythme de la musique pour les sous-titres lettre par lettre. (9 October 2026, 00:28:03 +0200)
+
+## 9 October 2026, 00:28:15 +0200 : Iteration
+
+<!-- feedback-event:25dabd7db4c99b52ac2aea994d4e0a86c46d005dca5fae990239ae879109bcfb (9 October 2026, 00:28:15 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:28:15 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:28:15 +0200)
+
+> Je vérifie ce qui est réellement enregistré avant de te répondre. (9 October 2026, 00:28:15 +0200)
+
+## 9 October 2026, 00:28:29 +0200 : Prompt
+
+<!-- feedback-event:000f8d958f74f93176bac1fd27308d4778d6d8b1ab5a1e2bfad5eea14023d0be (9 October 2026, 00:28:29 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:28:29 +0200)
+
+> Tu peux aussi ajouter du beat sur les sous titres pour les animer lettres par lettres et faire des petits zoom dynamiques de VFX dans les 2 vidéos, comme le ferait un motion designer, go. (9 October 2026, 00:28:29 +0200)
+
+## 9 October 2026, 00:28:29 +0200 : Prompt
+
+<!-- feedback-event:9333609aa62db0366466d0ceeaefc7da68d3c2a3fd5ca0dce88d14d5e5bc66ff (9 October 2026, 00:28:29 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:28:29 +0200)
+
+> Évidemment tu as enregistré tous mes feedbacks dans le projet et dans un .md de montage, right ? (9 October 2026, 00:28:29 +0200)
+
+## 9 October 2026, 00:28:29 +0200 : Log
+
+<!-- feedback-event:4ba20e64f122266173ce1c7bbe4ec4b8840999717e19232189c7140e4c33e2dc (9 October 2026, 00:28:29 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: log. (9 October 2026, 00:28:29 +0200)
+
+> Cause des bandes blanches qui apparaissent et disparaissent : minterpolate (compensation de mouvement par blocs) ne suit pas une surface texturée qui tourne ; 2 images sur 3 montrent des lignes blanches dédoublées. Correction : déformation horizontale mesurée sur le pot (UniformTurnWarp.py), sans mélange fantôme. Mesuré le 9 October 2026 sur des images zoomées de A (originales nettes, interpolées avec doubles lignes). (9 October 2026, 00:28:29 +0200)
+
+## 9 October 2026, 00:28:29 +0200 : Standing rule
+
+<!-- feedback-event:51c2f2eed104febfad246640a7c03fb01de9a314ecc9f2ff7e1bd7003766eb66 (9 October 2026, 00:28:29 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: rule. (9 October 2026, 00:28:29 +0200)
+
+> Règle : retirer le SFX F1_Trigger_minus20ms, garder Mail Open (disparition de Before). Recalculer tout depuis les vidéos sources (B 7,5 s, A 12,5 s), grading compris. (9 October 2026, 00:28:29 +0200)
+
+## 9 October 2026, 00:28:46 +0200 : Prompt
+
+<!-- feedback-event:0917a08b9acad8ac504936fc5cab28c285bf579ee35d48ee7ba95dd415afb954 (9 October 2026, 00:28:46 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:28:46 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:28:46 +0200)
+
+> [Image: original 2800x560, displayed at 2000x400. Multiply coordinates by 1.40 to map to original image.] (9 October 2026, 00:28:46 +0200)
+
+## 9 October 2026, 00:29:13 +0200 : Iteration
+
+<!-- feedback-event:7ee4d14b8ac918f4faadb72c9611db62fcccdcf1362ad004823b19625ca84a22 (9 October 2026, 00:29:13 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:29:13 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:29:13 +0200)
+
+> Je teste une autre hypothèse : des bandes de scintillement (lumière LED / obturateur) déjà présentes dans les vidéos sources. (9 October 2026, 00:29:13 +0200)
+
+## 9 October 2026, 00:32:26 +0200 : Iteration
+
+<!-- feedback-event:ff3faf6ea0f0735fbf340c30104748fa059e0ff8c09faccc100fb1dd068d6dae (9 October 2026, 00:32:26 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:32:26 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:32:26 +0200)
+
+> Rendu fini. Je contrôle les images clés (lettres, zoom, raccord). (9 October 2026, 00:32:26 +0200)
+
+## 9 October 2026, 00:32:31 +0200 : Prompt
+
+<!-- feedback-event:4ef898d1c895d934dd274f3ed02b3aab3d63d4a2b47d61c676e806be8092e91b (9 October 2026, 00:32:31 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:32:31 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:32:31 +0200)
+
+> [Image: original 3000x534, displayed at 2000x356. Multiply coordinates by 1.50 to map to original image.] (9 October 2026, 00:32:31 +0200)
+
+## 9 October 2026, 00:32:54 +0200 : Iteration
+
+<!-- feedback-event:80a3276ee9220db88913ec05d382c8aad14cf998bedf16d36d0368acfa345f99 (9 October 2026, 00:32:54 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:32:54 +0200)
+- Source: checkpoint:claude:fa4b854c-d32b-463e-9994-34b34d998356. (9 October 2026, 00:32:54 +0200)
+
+> v6 recalculee depuis les sources: cause bandes blanches = minterpolate sur surface tournante; UniformTurnWarp (une image source deplacee, sans melange) A 12.5 s et B 7.5 s; sous-titres lettre par lettre sur le tempo 71 BPM, zooms motion design, F1 retire, Mail Open garde sur Before, Inv Open sur les apparitions. Feedbacks consignes dans FEEDBACK.md et MontageIndex.md. Prochain: validation, publication apres accord. (9 October 2026, 00:32:54 +0200)
+
+## 9 October 2026, 00:33:06 +0200 : Iteration
+
+<!-- feedback-event:57f9c42d1c44ddfd00208ad6e47ee5428d6e3cc36681b811d7897b99839cc39b (9 October 2026, 00:33:06 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:33:06 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:33:06 +0200)
+
+> Oui, tes feedbacks sont enregistrés. La v6 est rendue : les vidéos sont recalculées depuis les sources, sans les fantômes de l'interpolation, avec les sous-titres lettre par lettre et les zooms. Je ne l'ai pas écoutée, donc le son reste à vérifier. (9 October 2026, 00:33:06 +0200)
+>
+> **Tes feedbacks.** Tes messages sont dans `FEEDBACK.md` : le service en avait capturé 41, et j'ai ajouté à la main les deux derniers (beat/zoom et ta question) ainsi que la cause des bandes blanches et la règle F1. Dans `MontageIndex.md`, un « Journal des feedbacks » liste tes décisions dans l'ordre, et chaque version (v2 à v6) a sa section avec fichiers et paramètres. (9 October 2026, 00:33:06 +0200)
+>
+> **Cause des bandes blanches (prouvée sur des images zoomées).** L'interpolation (`minterpolate`) ne sait pas suivre une surface qui tourne : sur le pot, elle mélange deux positions, et des lignes blanches se dédoublent sur une partie des images, d'où l'effet de superposition. Je n'ai pas pu confirmer le défaut par une mesure globale, seulement par le zoom et par des mesures de netteté. (9 October 2026, 00:33:06 +0200)
+>
+> **Correction.** Le nouveau script `UniformTurnWarp.py` mesure la rotation, puis déplace l'image source la plus proche, sans jamais mélanger deux images. Mesure d'irrégularité de netteté d'une image à l'autre : (9 October 2026, 00:33:06 +0200)
+>
+> | Clip | Avant | Après | Source | (9 October 2026, 00:33:06 +0200)
+> |---|---|---|---| (9 October 2026, 00:33:06 +0200)
+> | A | 0,121 | 0,063 | 0,104 | (9 October 2026, 00:33:06 +0200)
+> | B | 0,119 | 0,085 | 0,070 | (9 October 2026, 00:33:06 +0200)
+>
+> Une première version qui mélangeait deux images déplacées était plus floue (0,162). Je l'ai abandonnée. (9 October 2026, 00:33:06 +0200)
+>
+> **Motion design.** (9 October 2026, 00:33:06 +0200)
+> - **Tempo :** la musique est à 71 BPM, premier temps à 0,38 s. (9 October 2026, 00:33:06 +0200)
+> - **Sous-titres :** lettre par lettre, une lettre toutes les 0,106 s, avec un petit rebond d'entrée. « Before » démarre à 0,38 s et « After » à 7,986 s, sur les temps. (9 October 2026, 00:33:06 +0200)
+> - **Zooms :** avance lente, coup de zoom tous les deux temps, et un zoom de transition au raccord (B monte, A redescend). (9 October 2026, 00:33:06 +0200)
+>
+> **Sons.** J'ai retiré F1 et gardé Mail Open sur la disparition de « Before » (3,38 s), avec Inv Open sur les apparitions. J'ai donc rien remis sur la disparition de « After » : dis-moi si tu veux un Mail Open là aussi. (9 October 2026, 00:33:06 +0200)
+>
+> **Vérifié.** Le fichier fait 20,000 s, 480 images, audio AAC, pic à -3,0 dB. Sur la planche d'images clés, les lettres apparaissent une à une (B, Be, Befor, Before) et le zoom est visible. Sur d'autres points de ton retour, l'étalonnage est celui de la v4. (9 October 2026, 00:33:06 +0200)
+>
+> Si une bande blanche persiste, donne-moi le moment (seconde et vidéo) et je regarde cette image précise. (9 October 2026, 00:33:06 +0200)
+>
+> La vidéo (35 Mo) est trop lourde pour l'envoi mobile, elle n'est visible que dans l'app desktop : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/montage_20s_B7.5_A12.5_v6.mp4`. Les anciennes versions sont rangées dans `archive/old-videos/`. La sauvegarde cloud du projet n'est pas confirmée. (9 October 2026, 00:33:06 +0200)
+>
+> Dis-moi si tu valides la v6, si les zooms ou le rythme des lettres doivent être plus ou moins marqués, et sur quelle plateforme tu veux publier. (9 October 2026, 00:33:06 +0200)
+
+## 9 October 2026, 00:34:20 +0200 : Prompt
+
+<!-- feedback-event:126ce77c66daae14121750a10aefc9aef6733cb20844ad815244ae881729afb3 (9 October 2026, 00:34:20 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:34:20 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:34:20 +0200)
+
+> Enlève moi ce zoom c'est affreux : ::: Zooms : avance lente, coup de zoom tous les deux temps, et un zoom de transition au raccord (B monte, A redescend). NON (9 October 2026, 00:34:20 +0200)
+
+## 9 October 2026, 00:34:29 +0200 : Prompt
+
+<!-- feedback-event:08ea8ed3669320d28c05149fa9111eba6ac75296a88a69354863825290d4836a (9 October 2026, 00:34:29 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:34:29 +0200)
+
+> Enlève moi ce zoom, c'est affreux : zooms (avance lente, coup de zoom tous les deux temps, zoom de transition au raccord). NON. (9 October 2026, 00:34:29 +0200)
+
+## 9 October 2026, 00:34:29 +0200 : Standing rule
+
+<!-- feedback-event:6c9c37729f59e6edfde18c37c5a6cafc5073b9fefe8a218ff2557883cac636aa (9 October 2026, 00:34:29 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: rule. (9 October 2026, 00:34:29 +0200)
+
+> Règle : AUCUN zoom VFX dans le montage (ni avance lente, ni coups sur les temps, ni zoom au raccord). Garder le reste de la v6 (sous-titres lettre par lettre sur le tempo, sources sans fantômes). (9 October 2026, 00:34:29 +0200)
+
+## 9 October 2026, 00:35:52 +0200 : Iteration
+
+<!-- feedback-event:e514879823740bd75df937f6c9fca3c9289a6324250db6eaa661b7437448460a (9 October 2026, 00:35:52 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:35:52 +0200)
+- Source: checkpoint:claude:fa4b854c-d32b-463e-9994-34b34d998356. (9 October 2026, 00:35:52 +0200)
+
+> v7: tous les zooms retires (regle de Matthieu), reste de la v6 conserve. Prochain: validation, publication apres accord. (9 October 2026, 00:35:52 +0200)
+
+## 9 October 2026, 00:36:02 +0200 : Iteration
+
+<!-- feedback-event:bcd7c7761140abb6a6ea567e09828aa9a7fe00ad7bcd048bb09cb9498a149a13 (9 October 2026, 00:36:02 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:36:02 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:36:02 +0200)
+
+> La v7 est rendue sans aucun zoom : ni avance lente, ni coups sur les temps, ni zoom au raccord. Je n'ai fait que couper les zooms, tout le reste de la v6 est conservé (sources sans fantômes, sous-titres lettre par lettre sur le tempo, sons, grades). (9 October 2026, 00:36:02 +0200)
+>
+> - **Vérifié :** 20,000 s, 480 images, audio AAC. Sur une planche de 6 images clés, le pot garde la même taille d'un moment à l'autre, y compris autour du raccord. Je n'ai pas écouté l'audio. (9 October 2026, 00:36:02 +0200)
+> - **Règle enregistrée :** « aucun zoom VFX dans ce montage » est dans `FEEDBACK.md`, `MontageIndex.md` (section v7) et le checkpoint. Le réglage est coupé dans `FinalMontage3.py`. La sauvegarde cloud n'est pas confirmée. (9 October 2026, 00:36:02 +0200)
+> - **Rangement :** j'ai déplacé la v6 dans `archive/old-videos/`. (9 October 2026, 00:36:02 +0200)
+>
+> Le fichier est `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/montage_20s_B7.5_A12.5_v7.mp4`. Il fait environ 35 Mo, donc il n'est visible que dans l'app desktop. J'ai envoyé seulement la planche d'images clés. (9 October 2026, 00:36:02 +0200)
+>
+> Dis-moi si la v7 te convient, ou si les lettres des sous-titres doivent être plus lentes ou plus rapides. Pour la publication, indique-moi la plateforme. (9 October 2026, 00:36:02 +0200)
+
+## 9 October 2026, 00:46:09 +0200 : Prompt
+
+<!-- feedback-event:7c670a404c1be5fe24d444f52a06321e2f512d64c9a8a7e10cced7b4c7b866ef (9 October 2026, 00:46:09 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:46:09 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:46:09 +0200)
+
+> save tout /ctrl-s j'ai fini (9 October 2026, 00:46:09 +0200)
+
+## 9 October 2026, 00:46:15 +0200 : Prompt
+
+<!-- feedback-event:979b519c1905fddf9b8d56835d1a9ab8b00edceedb72e1b3df9ba9086056868f (9 October 2026, 00:46:15 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:46:15 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:46:15 +0200)
+
+> Base directory for this skill: /Users/zenray/.claude/skills/ctrl-s (9 October 2026, 00:46:15 +0200)
+>
+> # Ctrl-S (9 October 2026, 00:46:15 +0200)
+>
+> Le geste répond à une seule question : (9 October 2026, 00:46:15 +0200)
+>
+> > Où faut-il écrire ce que nous venons d'apprendre pour que cela serve encore dans six mois ? (9 October 2026, 00:46:15 +0200)
+>
+> La réponse comporte parfois deux écritures, dont les rôles ne se doublonnent jamais : (9 October 2026, 00:46:15 +0200)
+>
+> - le fichier `*1.md` garde la connaissance durable du projet ; (9 October 2026, 00:46:15 +0200)
+> - `/Users/zenray/.claude/PROGRESS.md` garde la trace datée de l'action et pointe vers cette source. (9 October 2026, 00:46:15 +0200)
+>
+> ## Architecture canonique (9 October 2026, 00:46:15 +0200)
+>
+> | Question | Source unique | (9 October 2026, 00:46:15 +0200)
+> |---|---| (9 October 2026, 00:46:15 +0200)
+> | Quand, quoi, quel agent, quelle preuve, quelle suite ? | `~/.claude/PROGRESS.md` via le skill `progress` | (9 October 2026, 00:46:15 +0200)
+> | Que sait durablement un projet ou un domaine ? | `Memory/<domaine>/<Nom>1.md` | (9 October 2026, 00:46:15 +0200)
+> | Comment retrouver une section dans un gros fichier ? | skill routeur de contexte | (9 October 2026, 00:46:15 +0200)
+> | Quelle méthode réutiliser ? | `~/.claude/skills/<méthode>/` | (9 October 2026, 00:46:15 +0200)
+> | Quelle loi vaut encore demain ? | `CLAUDE.md` global ou du projet | (9 October 2026, 00:46:15 +0200)
+> | Pourquoi cette ligne de code surprenante existe-t-elle ? | commentaire au point exact | (9 October 2026, 00:46:15 +0200)
+> | Quel plan ou état de chantier détaillé reprendre ? | fichier dédié dans le projet | (9 October 2026, 00:46:15 +0200)
+> | Où vit un secret ? | section autorisée de `Identity/Matthieu1.md`, jamais ailleurs | (9 October 2026, 00:46:15 +0200)
+>
+> Une information, un seul endroit. Le journal cite la source durable ; il n'en recopie pas le contenu. (9 October 2026, 00:46:15 +0200)
+>
+> ## Arbre de décision (9 October 2026, 00:46:15 +0200)
+>
+> 1. **Secret** : utiliser seulement la valeur nécessaire depuis `Identity/Matthieu1.md`. Ne jamais l'afficher, (9 October 2026, 00:46:15 +0200)
+>    la journaliser ni la mettre dans un commit. (9 October 2026, 00:46:15 +0200)
+> 2. **Connaissance durable d'un projet ou de Matthieu** : trouver son `*1.md` avec le routeur correspondant, (9 October 2026, 00:46:15 +0200)
+>    puis ajouter une section datée sans effacer l'historique. (9 October 2026, 00:46:15 +0200)
+> 3. **Méthode réutilisable** : créer ou corriger le skill source dans `~/.claude/skills/`, puis le synchroniser. (9 October 2026, 00:46:15 +0200)
+> 4. **Loi transversale** : modifier `~/.claude/CLAUDE.md`. Une loi propre à un dépôt va dans son `CLAUDE.md`. (9 October 2026, 00:46:15 +0200)
+> 5. **Cause locale d'un code surprenant** : commenter au point exact, avec symptôme, cause, fausse piste et risque. (9 October 2026, 00:46:15 +0200)
+> 6. **Plan ou chantier long** : utiliser `KANBAN.md`, `PROTOCOLE.md`, `docs/<sujet>-design.md` ou le fichier déjà (9 October 2026, 00:46:15 +0200)
+>    en vigueur dans le projet. (9 October 2026, 00:46:15 +0200)
+> 7. **Chronologie** : appeler le skill `progress` dans tous les cas notables, avec un pointeur vers la source (9 October 2026, 00:46:15 +0200)
+>    durable quand les étapes précédentes ont écrit ailleurs. (9 October 2026, 00:46:15 +0200)
+>
+> ## Bases Memory (9 October 2026, 00:46:15 +0200)
+>
+> Les gros fichiers restent entiers. Un skill court sert d'index dynamique et ne charge que la section utile. (9 October 2026, 00:46:15 +0200)
+>
+> - `matthieu-context` route vers `/Users/zenray/.claude/Memory1/Identity/Matthieu1.md` ; (9 October 2026, 00:46:15 +0200)
+> - `japanese-context` route vers `/Users/zenray/.claude/Memory1/Japanese/Japanese1.md` ; (9 October 2026, 00:46:15 +0200)
+> - `zenrayshards-context` route vers `/Users/zenray/.claude/Memory1/ZenRayShards/ZenRayShards1.md` ; (9 October 2026, 00:46:15 +0200)
+> - les autres domaines suivent le même contrat, par exemple `Design/Design1.md`, `Houdini/Houdini1.md`, (9 October 2026, 00:46:15 +0200)
+>   `UnrealEngine/UnrealEngine1.md`, `AudioProductions/Audio1.md`. (9 October 2026, 00:46:15 +0200)
+>
+> Avant d'écrire, chercher les titres avec `rg -n '^#{1,4} '` et la notion avec `rg -n -i '<termes>'`. Ajouter (9 October 2026, 00:46:15 +0200)
+> dans la section concernée avec la date. Une correction nouvelle annule explicitement l'ancienne sans l'effacer. (9 October 2026, 00:46:15 +0200)
+>
+> Un fait ne va dans un `*1.md` que s'il change ce que le projet saura encore dans six mois. Une simple commande (9 October 2026, 00:46:15 +0200)
+> exécutée, un build vert ou une étape intermédiaire restent dans le journal global. (9 October 2026, 00:46:15 +0200)
+>
+> ## Journal global (9 October 2026, 00:46:15 +0200)
+>
+> Ne jamais créer ni compléter un `PROGRESS.md` dans le projet courant. Appeler : (9 October 2026, 00:46:15 +0200)
+>
+> ```zsh (9 October 2026, 00:46:15 +0200)
+> node /Users/zenray/.claude/skills/progress/scripts/progress.mjs append \ (9 October 2026, 00:46:15 +0200)
+>   --project "Nom du projet" \ (9 October 2026, 00:46:15 +0200)
+>   --fait "Résultat factuel" \ (9 October 2026, 00:46:15 +0200)
+>   --verifie "Preuve réelle" \ (9 October 2026, 00:46:15 +0200)
+>   --source-durable "/chemin/vers/Projet1.md" \ (9 October 2026, 00:46:15 +0200)
+>   --prochain "Action suivante" (9 October 2026, 00:46:15 +0200)
+> ``` (9 October 2026, 00:46:15 +0200)
+>
+> Champs disponibles : `Mesuré`, `Décision`, `Échoué`, `Écarté`, `Apprentissage`, `Vérifié`, `Source durable`, (9 October 2026, 00:46:15 +0200)
+> `Prochain`, `Blocage`. `Fait` est obligatoire. Un chiffre porte son unité, sa méthode et sa date. (9 October 2026, 00:46:15 +0200)
+>
+> Le script `progress` est obligatoire parce que deux instances, Claude Code et Codex, peuvent écrire au même (9 October 2026, 00:46:15 +0200)
+> instant. Il verrouille l'append, relève l'agent et le modèle depuis l'hôte et masque les secrets. Ne jamais (9 October 2026, 00:46:15 +0200)
+> pré-rédiger un résultat avant la commande qui le prouve. (9 October 2026, 00:46:15 +0200)
+>
+> ## Agent et modèle (9 October 2026, 00:46:15 +0200)
+>
+> L'infrastructure se déduit de l'hôte, jamais d'une introspection du modèle : (9 October 2026, 00:46:15 +0200)
+>
+> - session avec métadonnées Codex : `Codex Desktop`, modèle et effort lus dans le dernier `turn_context` ; (9 October 2026, 00:46:15 +0200)
+> - session Claude Code : `Claude Code Desktop`, modèle lu dans les métadonnées ou le transcript seulement s'il (9 October 2026, 00:46:15 +0200)
+>   y apparaît ; (9 October 2026, 00:46:15 +0200)
+> - donnée absente : écrire `non exposé par l'hôte`. (9 October 2026, 00:46:15 +0200)
+>
+> Les noms configurés ou attendus ne deviennent pas automatiquement le modèle de la session, car une sélection (9 October 2026, 00:46:15 +0200)
+> dans l'interface ou une option de lancement peut les surcharger. (9 October 2026, 00:46:15 +0200)
+>
+> ## Reprise (9 October 2026, 00:46:15 +0200)
+>
+> Au début d'une session, lire trois entrées, éventuellement filtrées par projet : (9 October 2026, 00:46:15 +0200)
+>
+> ```zsh (9 October 2026, 00:46:15 +0200)
+> node /Users/zenray/.claude/skills/progress/scripts/progress.mjs tail --count 3 (9 October 2026, 00:46:15 +0200)
+> node /Users/zenray/.claude/skills/progress/scripts/progress.mjs tail --project "ZenRayShards" --count 3 (9 October 2026, 00:46:15 +0200)
+> ``` (9 October 2026, 00:46:15 +0200)
+>
+> Résumer ces trois entrées en trois lignes maximum et annoncer la dernière action `Prochain`. Ne jamais charger (9 October 2026, 00:46:15 +0200)
+> le journal entier pour une reprise ordinaire ; le détail vient ensuite du skill routeur et du `*1.md` concerné. (9 October 2026, 00:46:15 +0200)
+>
+> ## Journaux legacy (9 October 2026, 00:46:15 +0200)
+>
+> Les sept anciens `PROGRESS.md` sont retirés le 2026-08-22 après audit complet et validation explicite. Ne jamais (9 October 2026, 00:46:15 +0200)
+> les recréer. Si un autre journal legacy est découvert, le skill `progress` l’importe de façon idempotente dans (9 October 2026, 00:46:15 +0200)
+> le global, masque les secrets dans la copie et conserve son chemin et sa ligne avant toute suppression autorisée. (9 October 2026, 00:46:15 +0200)
+>
+> ## Déclencheurs (9 October 2026, 00:46:15 +0200)
+>
+> Sauvegarder automatiquement lorsqu'une tâche significative finit, qu'une décision se tranche, qu'une mesure (9 October 2026, 00:46:15 +0200)
+> produit un chiffre, qu'une piste échoue ou s'écarte, qu'un blocage apparaît ou se lève, qu'un fichier important (9 October 2026, 00:46:15 +0200)
+> change de rôle, qu'un agent rend un résultat, que le contexte va se compacter, ou que Matthieu marque une pause. (9 October 2026, 00:46:15 +0200)
+>
+> Ne rien sauvegarder quand l'état se reconstruit en trois secondes, qu'aucune décision n'en dépend et qu'aucune (9 October 2026, 00:46:15 +0200)
+> session future n'en bénéficiera. Écrire trop enterre autant qu'écrire au mauvais endroit. (9 October 2026, 00:46:15 +0200)
+>
+> ## Le cas japonais — ce qu'un Ctrl-S doit produire pour que la leçon apparaisse sur le site (9 October 2026, 00:46:15 +0200)
+>
+> Depuis le 2026-08-27, une leçon japonaise n'est plus seulement archivée : elle est **affichée**, par la vue (9 October 2026, 00:46:15 +0200)
+> ZenRayJapanese de ZenRayProgress (zone Learn, nav Japanese). Cette vue ne lit rien d'autre que ce que le Ctrl-S (9 October 2026, 00:46:15 +0200)
+> écrit, si bien qu'une leçon mal rangée ne disparaît pas, elle devient invisible, ce qui est pire. (9 October 2026, 00:46:15 +0200)
+>
+> La règle d'or reste la même : **une information, un seul endroit**. `Memory/Japanese/Japanese1.md` demeure la (9 October 2026, 00:46:15 +0200)
+> source unique et append-only ; `Memory/Japanese/Site/japanese.json` n'en est que l'index dérivé, produit par un (9 October 2026, 00:46:15 +0200)
+> script, jamais écrit à la main. Modifier l'index sans modifier le corpus fabrique une seconde vérité qui sera (9 October 2026, 00:46:15 +0200)
+> écrasée à la première régénération. (9 October 2026, 00:46:15 +0200)
+>
+> ### Le routage, section par section (9 October 2026, 00:46:15 +0200)
+>
+> La vue possède quatre sections, et chacune se remplit par une FORME d'écriture précise dans le corpus. Écrire (9 October 2026, 00:46:15 +0200)
+> la bonne chose sous la mauvaise forme la range dans le carnet papier plutôt que sur le site. (9 October 2026, 00:46:15 +0200)
+>
+> | Ce qu'on vient d'enseigner | La forme à écrire dans `Japanese1.md` | Où cela apparaît | (9 October 2026, 00:46:15 +0200)
+> |---|---|---| (9 October 2026, 00:46:15 +0200)
+> | Une leçon entière | un titre `## L<n> — <AAAA-MM-JJ> — <titre>` | onglet **Leçons**, une carte | (9 October 2026, 00:46:15 +0200)
+> | Un point de grammaire | un titre `### Grammaire — ~point` **ou** une ligne de tableau `\| Point \| Sens \|` | onglet **Grammaire** | (9 October 2026, 00:46:15 +0200)
+> | Du vocabulaire | un tableau à deux colonnes `\| Mot \| Sens \|` | onglet **Vocabulaire** | (9 October 2026, 00:46:15 +0200)
+> | Un kanji | une fiche `Lessons/KanjiCards/<plage>/NNN 漢 Kun On.html` | onglet **Kanji** | (9 October 2026, 00:46:15 +0200)
+> | Un nouvel état chiffré | la ligne `### État mesuré au <AAAA-MM-JJ>` puis sa phrase `N5 : x% enseigné, ~y% consolidé. N4 : …` | la **jauge** en tête | (9 October 2026, 00:46:15 +0200)
+>
+> Trois pièges, tous payés au moins une fois : (9 October 2026, 00:46:15 +0200)
+>
+> Le vocabulaire dicté en prose (« il a recopié はし, みず, えき ») n'atteint JAMAIS le site : seul un tableau est (9 October 2026, 00:46:15 +0200)
+> lu. C'est exactement l'écart que la vue affiche elle-même sous la jauge, trois cent douze mots tabulés contre (9 October 2026, 00:46:15 +0200)
+> sept cents comptés, et cet écart est de la matière perdue, pas une imprécision d'affichage. (9 October 2026, 00:46:15 +0200)
+>
+> Un tableau d'exercice (`\| # \| Question \| Réponse Matthieu \| Verdict \|`) est délibérément écarté du (9 October 2026, 00:46:15 +0200)
+> vocabulaire : y ranger un mot nouveau revient à le cacher. (9 October 2026, 00:46:15 +0200)
+>
+> La jauge n'est jamais calculée, elle est RELUE. Tant que la ligne « État mesuré au … » n'est pas mise à jour, (9 October 2026, 00:46:15 +0200)
+> les pourcentages du site restent ceux du dernier comptage, quelle que soit la quantité de leçons ajoutées (9 October 2026, 00:46:15 +0200)
+> depuis. C'est voulu : le corpus distingue **enseigné** et **consolidé**, et seul un drill réel produit le second. (9 October 2026, 00:46:15 +0200)
+>
+> ### La séquence, dans l'ordre (9 October 2026, 00:46:15 +0200)
+>
+> ```zsh (9 October 2026, 00:46:15 +0200)
+> # 1. la leçon s'ajoute au corpus, en append, jamais en réécriture (9 October 2026, 00:46:15 +0200)
+> #    (édition de /Users/zenray/.claude/Memory1/Japanese/Japanese1.md) (9 October 2026, 00:46:15 +0200)
+>
+> # 2. l'index se régénère depuis le corpus (9 October 2026, 00:46:15 +0200)
+> cd /Users/zenray/.claude/Memory1/Japanese (9 October 2026, 00:46:15 +0200)
+> python3 Scripts/build-japanese-index.py (9 October 2026, 00:46:15 +0200)
+>
+> # 3. le contrôle échoue si l'index et le corpus divergent (9 October 2026, 00:46:15 +0200)
+> python3 Scripts/build-japanese-index.py --verify (9 October 2026, 00:46:15 +0200)
+>
+> # 4. publication (9 October 2026, 00:46:15 +0200)
+> cd /Users/zenray/.claude/Memory1 (9 October 2026, 00:46:15 +0200)
+> git add -- Japanese/Japanese1.md Japanese/Site/japanese.json (9 October 2026, 00:46:15 +0200)
+> git commit -m "japonais : L<n> — <titre>" && git push (9 October 2026, 00:46:15 +0200)
+> ``` (9 October 2026, 00:46:15 +0200)
+>
+> Le site lit ensuite le dépôt Memory par son API. Compter jusqu'à cinq minutes de cache CDN avant que la (9 October 2026, 00:46:15 +0200)
+> nouvelle leçon n'apparaisse : un rechargement immédiat qui montre l'ancien compte n'est pas une panne, et (9 October 2026, 00:46:15 +0200)
+> l'écart se vérifie en interrogeant l'API plutôt qu'en rechargeant la page en boucle. (9 October 2026, 00:46:15 +0200)
+>
+> ### Ce qui reste interdit (9 October 2026, 00:46:15 +0200)
+>
+> La vue est en **lecture seule**, et c'est une décision, pas une limite technique : un journal append-only qu'on (9 October 2026, 00:46:15 +0200)
+> pourrait retoucher depuis une page web cesserait de dire ce qu'on croyait à l'époque, ce qui est justement ce (9 October 2026, 00:46:15 +0200)
+> qu'on vient y chercher. Une correction s'écrit donc comme une nouvelle entrée qui cite l'ancienne, jamais comme (9 October 2026, 00:46:15 +0200)
+> une réécriture, exactement comme dans le journal global. (9 October 2026, 00:46:15 +0200)
+>
+> ## Contrôle avant de rendre (9 October 2026, 00:46:15 +0200)
+>
+> 1. La connaissance durable se trouve dans un seul `*1.md`. (9 October 2026, 00:46:15 +0200)
+> 2. La chronologie se trouve uniquement dans le global. (9 October 2026, 00:46:15 +0200)
+> 3. Toute mesure a une preuve ; toute hypothèse porte son incertitude. (9 October 2026, 00:46:15 +0200)
+> 4. Les échecs et les options écartées disent pourquoi. (9 October 2026, 00:46:15 +0200)
+> 5. `Prochain` est une action unique avec le chemin utile. (9 October 2026, 00:46:15 +0200)
+> 6. Aucun secret n'apparaît. (9 October 2026, 00:46:15 +0200)
+> 7. Les modifications sont commitées dans leur dépôt source. (9 October 2026, 00:46:15 +0200)
+>
+> Le test final tient en une phrase : la session suivante peut-elle reprendre sans relire cette conversation ? (9 October 2026, 00:46:15 +0200)
+>
+>
+> ARGUMENTS: poisson-gloss-matthieu-poterie-aix-8-octobre-2026 : session finie, tout sauvegarder (montage v7, méthode sans fantômes, feedbacks) (9 October 2026, 00:46:15 +0200)
+
+## 9 October 2026, 00:46:47 +0200 : Iteration
+
+<!-- feedback-event:3fb60ff6b45066f06783b4a964f7572a15f86c00cead1043f8786ac337c2b2e8 (9 October 2026, 00:46:47 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:46:47 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:46:47 +0200)
+
+> Tout est sauvegardé côté mémoire et journal. Le cloud Assets n'a pas fini : la sauvegarde est encore en attente. (9 October 2026, 00:46:47 +0200)
+>
+> | Ce que tu voulais | Fait ? | Comment je le sais | (9 October 2026, 00:46:47 +0200)
+> |---|---|---| (9 October 2026, 00:46:47 +0200)
+> | Savoir durable du projet | Oui | `Project1.md` a une section datée : livrable v7, cause des fantômes, règle « pas de zoom », recette, décisions encore à prendre. | (9 October 2026, 00:46:47 +0200)
+> | Prompts et décisions | Oui | `FEEDBACK.md` (prompts originaux) et `MontageIndex.md` (journal de tes décisions et sections v2 à v7) sont à jour. | (9 October 2026, 00:46:47 +0200)
+> | Méthode réutilisable | Oui | Le skill zenray-edit a `UniformTurn.py` et `UniformTurnWarp.py`, et son contrôle de contrat est vert. | (9 October 2026, 00:46:47 +0200)
+> | Ta préférence « pas de zoom » | Oui | Elle est dans ma mémoire (`feedback_no_zoom_vfx_in_montage.md`) et dans l'index. | (9 October 2026, 00:46:47 +0200)
+> | Chronologie | Oui | Une entrée `progress` a été ajoutée dans `PROGRESS.md`, avec la prochaine action. | (9 October 2026, 00:46:47 +0200)
+> | Dépôt Memory | Oui | Le commit `7965c87e4` (4 fichiers du projet, chemins précis) est poussé sur `origin/main`. | (9 October 2026, 00:46:47 +0200)
+> | Sauvegarde cloud des fichiers | Pas encore | État « en attente » : 279 fichiers sur 325 sauvegardés, 46 en attente, aucune erreur, et aucune vérification cloud confirmée. La surveillance est arrêtée. | (9 October 2026, 00:46:47 +0200)
+>
+> Il reste ces décisions à prendre : (9 October 2026, 00:46:47 +0200)
+> - **Validation de la v7 :** la v7 est dans `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/montage_20s_B7.5_A12.5_v7.mp4`. (9 October 2026, 00:46:47 +0200)
+> - **Plateforme :** à choisir pour la publication, qui n'est pas faite. (9 October 2026, 00:46:47 +0200)
+> - **Mail Open :** à décider s'il va aussi sur la disparition de « After ». (9 October 2026, 00:46:47 +0200)
+>
+> Pour finir la sauvegarde cloud, je peux relancer l'archive du projet : dis-le-moi. (9 October 2026, 00:46:47 +0200)
+
+## 9 October 2026, 00:48:39 +0200 : Prompt
+
+<!-- feedback-event:904878c92d3e1d710b98bc68f4b2e2e025d43c10b9a5b34c9e5b5cd492049cb3 (9 October 2026, 00:48:39 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 00:48:39 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:48:39 +0200)
+
+> relance l'archive du projet (9 October 2026, 00:48:39 +0200)
