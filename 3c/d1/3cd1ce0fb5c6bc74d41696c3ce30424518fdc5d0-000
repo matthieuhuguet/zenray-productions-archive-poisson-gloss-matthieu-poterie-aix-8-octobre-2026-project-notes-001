@@ -1,0 +1,23 @@
+# Index du montage : poterie koi, Aix (8 October 2026)
+
+## Sources (8 October 2026)
+- 8 October 2026 : vidéo A (le pot en plateau) : `/Users/zenray/Downloads/IMG_8076.MOV`, copie `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/source.MOV`. (8 October 2026)
+- 8 October 2026 : vidéo B (prise à la main, poisson) : `/Users/zenray/Downloads/VIDEO-2026-09-24-22-10-02.mov`, 1024x576 tournée -90, 10,8 s. (8 October 2026)
+- 8 October 2026 : musique : yt-dlp, "Henrik Schwarz & Bugge Wesseltoft - In Spite Of Everything" (chaîne Lord Of Chill, 5:35), `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/music/in-spite-of-everything.mp3`, extrait dès 3:36. (8 October 2026)
+
+## Livrables en cours de test (8 October 2026)
+| Fichier | Contenu | Date |
+|---|---|---|
+| `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/montage_15s_gradeC_titre_musique.mp4` | B puis A, 7,5 s + 7,5 s, grade C, titre, musique, boost à 7,5 s | 8 October 2026 |
+| `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/montage_20s_gradeC_titre_musique.mp4` | B puis A, 10 s + 10 s, boost à 10 s | 8 October 2026 |
+| `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/thumbnail_titre_poisson_centre.png` | titre + vidéo B au poisson centré (image 15 de B_7.5s) | 8 October 2026 |
+| `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/u/{A,B}_{7.5,10}s.mp4` | tours uniformes par clip, sans son | 8 October 2026 |
+
+## Recette (8 October 2026)
+- 8 October 2026 : rotation uniforme : `~/.claude/skills/zenray-edit/scripts/UniformTurn.py` (ajouté au skill zenray-edit). B : mouvement de l'image 13 à 253, 880 px de tour ; A : image 14 à 159, 734 px. (8 October 2026)
+- 8 October 2026 : grade C contraste froid : paramètres dans `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/Scripts/Montage.py` (P.grade) et `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/grades.json`. (8 October 2026)
+- 8 October 2026 : titre crossconnections jaune #FFFF00 (Vogun Medium pour latin, Yu Mincho pour 鯉陶器), 3 lignes sans parenthèses, chaque ligne à 80 % de la largeur : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/title/Animation.html`, `Animation.json` (apparition 1 s, reste 2 s, sortie 1 s, début à 0,5 s, bas de l'image). Rendu : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/Scripts/RenderTitle.cjs`. Piège payé : avec 3 lignes, rowDelay doit rester à 0,25 sinon la 3e ligne n'apparaît jamais. (8 October 2026)
+- 8 October 2026 : son : fade in et fade out easeOutBack de 0,25 s (choix de Matthieu), loudnorm -16, boost cinéma au raccord (montée de bruit 0,9 s, impact grave 80 vers 34 Hz, la musique baisse 45 % pendant 0,5 s) : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/Scripts/FinalMontage.py <secondes par clip>`. (8 October 2026)
+
+## À décider (8 October 2026)
+- 8 October 2026 : version retenue (15 s ou 20 s), niveau du boost, publication et plateforme. Rien n'est publié. (8 October 2026)

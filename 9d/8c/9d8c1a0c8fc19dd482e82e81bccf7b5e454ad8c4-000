@@ -399,3 +399,182 @@
 > Dis-moi lequel tu valides (A, B ou C, ou un mélange). Je rends alors la vidéo complète dans ce grade, avec les valeurs réglables au même endroit. La publication reste à confirmer, ainsi que la plateforme. (8 October 2026, 22:23:39 +0200)
 >
 > Planche : `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/sheets/storyboard_lighting_3_grades.png` (8 October 2026, 22:23:39 +0200)
+
+## 8 October 2026, 23:01:15 +0200 : Prompt
+
+<!-- feedback-event:05c5132e34391b303442347b7e4dead7a9bf2754345e5a925dd56f4754709391 (8 October 2026, 23:01:15 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (8 October 2026, 23:01:15 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (8 October 2026, 23:01:15 +0200)
+
+> /Users/zenray/Downloads/VIDEO-2026-09-24-22-10-02.mov pareil sur cette vidéo. speed uniform  (8 October 2026, 23:01:15 +0200)
+>
+> append dans le /zenray-edit  skill d'ailleurs pour speed uniforme une vidéo uniforme. a partir d'une prise de vue réelle.  (8 October 2026, 23:01:15 +0200)
+>
+> puis tu met les 2 vidéos uniformisés à 5 secondes de vitesse total et cette vidéo en premier (8 October 2026, 23:01:15 +0200)
+>
+> output 10 sec video + grade C, contraste froid (8 October 2026, 23:01:15 +0200)
+>
+> je sais plus dans quel skill il y a le titre vogun en jaune /zenray-houdini ou /zenray-edit  (8 October 2026, 23:01:15 +0200)
+> titre = 3 lignes via retour à la ligne 鯉陶器 (Koi Tōki) — Carpe Céramique (pour japonais utiliser yu mincho serif) me montrer l'anim mov avant de valider (8 October 2026, 23:01:15 +0200)
+> crée un titre 1 fade in  2 reste  1 disparait en seconde.   (8 October 2026, 23:01:15 +0200)
+>
+> /ytb-dlp  .mp3 pour la musique à partir 3:36 met 1 sec de fade in pour la musique (img) (8 October 2026, 23:01:15 +0200)
+>
+> cependant avant de mix la musique j'ai besoin de tester 3 configuration easeoutback : 0.25 / 0.5 et 1 secondes sur les 5 premières secondes ensuite je valide l'intro (8 October 2026, 23:01:15 +0200)
+>
+> créer l'index du montage via /zenray-assets (8 October 2026, 23:01:15 +0200)
+
+## 8 October 2026, 23:01:15 +0200 : Prompt
+
+<!-- feedback-event:803b3b3355fb508740fa2597812c16c0980b344cec90978e7e196ec9113d6c04 (8 October 2026, 23:01:15 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (8 October 2026, 23:01:15 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (8 October 2026, 23:01:15 +0200)
+
+> [Image: source: /private/tmp/claude-501/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356/images/1.webp] (8 October 2026, 23:01:15 +0200)
+
+## 8 October 2026, 23:10:11 +0200 : Iteration
+
+<!-- feedback-event:fded791669f604ce35cfc152044bfb904003b0cbefc099a48c557c6769bff7a4 (8 October 2026, 23:10:11 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (8 October 2026, 23:10:11 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (8 October 2026, 23:10:11 +0200)
+
+> Je corrige un petit bug de police dans le script du titre et je relance les 3 tests d'intro. (8 October 2026, 23:10:11 +0200)
+
+## 8 October 2026, 23:11:50 +0200 : Iteration
+
+<!-- feedback-event:facffdad0c72d65624ffcfcf112dba997d00c3d5be88591f4c25021f8566d9fa (8 October 2026, 23:11:50 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (8 October 2026, 23:11:50 +0200)
+- Source: checkpoint:claude:fa4b854c-d32b-463e-9994-34b34d998356. (8 October 2026, 23:11:50 +0200)
+
+> Index du montage: A_uniform5s.mp4 (pot IMG_8076) + b/B_uniform5s.mp4 (VIDEO-2026-09-24-22-10-02), 5 s chacun, tour uniforme (UniformTurn.py ajoute au skill zenray-edit). Ordre B puis A, grade C (grades.json / Montage.py P.grade) = montage_10s_gradeC_notitle.mp4. Titre Vogun jaune + Yu Mincho 3 lignes, fade in 1 s / reste 2 s / sortie 1 s; tests easeOutBack intro_easeOutBack_0.25s/0.5s/1.0s.mp4 + title_alpha_easeOutBack_0.5s.mov. Musique non mixee: Henrik Schwarz, Bugge Wesseltoft, In Spite Of Everything, depart 3:36, fade in 1 s, apres validation de lintro. Publication non faite. (8 October 2026, 23:11:50 +0200)
+
+## 8 October 2026, 23:12:23 +0200 : Iteration
+
+<!-- feedback-event:2a14ceb1db4d6d8f1dfb7ee28644f708d9b9573fb6fe933c4dde6025518e47b5 (8 October 2026, 23:12:23 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (8 October 2026, 23:12:23 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (8 October 2026, 23:12:23 +0200)
+
+> Le montage de 10 s en grade C (sans titre) est rendu, et les 3 tests d'intro sont prêts à regarder. La musique n'est pas mixée et rien n'est publié. (8 October 2026, 23:12:23 +0200)
+>
+> | Demande | Fait ? | Comment je le sais | (8 October 2026, 23:12:23 +0200)
+> |---|---|---| (8 October 2026, 23:12:23 +0200)
+> | Vidéo 2 à vitesse uniforme | Oui | Le tour dure 5 s, 120 images, en 1080×1920. La source (1024×576, caméra à la main) est agrandie, donc un peu moins nette. | (8 October 2026, 23:12:23 +0200)
+> | Skill zenray-edit complété | Oui | Le script `UniformTurn.py` et une section datée y sont ajoutés, et le contrôle du skill passe. | (8 October 2026, 23:12:23 +0200)
+> | Les 2 vidéos à 5 s, la nouvelle en premier | Oui | Le montage fait 10,000 s, 240 images, avec la nouvelle vidéo (B) puis le pot (A). | (8 October 2026, 23:12:23 +0200)
+> | Grade C, contraste froid | Oui | Appliqué au montage 10 s, sans titre pour l'instant. | (8 October 2026, 23:12:23 +0200)
+> | Titre Vogun jaune | Oui | Il est dans le skill zenray-houdini (`references/shorts/VogunTitles.md`). Les 3 lignes sont posées : 鯉陶器 en Yu Mincho, puis (Koi Tōki) et Carpe Céramique en Vogun Medium jaune. Fade in 1 s, reste 2 s, sortie 1 s. | (8 October 2026, 23:12:23 +0200)
+> | 3 tests easeOutBack de 0,25 s, 0,5 s et 1 s | Oui | Sur les 5 premières secondes. Pour chacun, la durée règle le « rebond » (zoom avec dépassement) de l'entrée du titre. J'ai vérifié 4 images du test à 0,5 s : titre qui apparaît, plein, puis qui s'efface. | (8 October 2026, 23:12:23 +0200)
+> | Index du montage via Assets | À moitié | Le checkpoint est écrit dans le feedback du projet. Les fichiers sont reconnus, mais la sauvegarde cloud n'est pas confirmée : le dernier job d'archive est en erreur « Source changed since inventory ». | (8 October 2026, 23:12:23 +0200)
+> | Musique (yt-dlp, dès 3:36, fade in 1 s) | Pas encore | Tu veux d'abord valider l'intro. Le titre prévu est « In Spite Of Everything » (Henrik Schwarz, Bugge Wesseltoft). | (8 October 2026, 23:12:23 +0200)
+>
+> Le titre en alpha (`title_alpha_easeOutBack_0.5s.mov`, 68 Mo) est trop gros pour l'envoi mobile : il est seulement visible dans l'app desktop, dans `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/`. (8 October 2026, 23:12:23 +0200)
+>
+> J'ai supposé que « fade in 1 s » reste le créneau d'entrée, et que 0,25 s, 0,5 s et 1 s sont des durées d'easing à l'intérieur de ce créneau. Dis-moi si tu l'entendais autrement. (8 October 2026, 23:12:23 +0200)
+>
+> Dis-moi lequel des trois tests d'intro tu valides (0,25 s, 0,5 s ou 1 s) et si la position du titre te convient. Je télécharge ensuite la musique, la fais démarrer à 3:36 avec 1 s de fade in, et je sors la vidéo finale avec le titre. (8 October 2026, 23:12:23 +0200)
+>
+> Ta consigne en plus court : « Rends la vidéo 2 uniforme sur 5 s, monte-la avant la 1re, grade C, titre Vogun 3 lignes, et teste l'entrée easeOutBack à 0,25 s, 0,5 s et 1 s avant la musique. » (8 October 2026, 23:12:23 +0200)
+
+## 8 October 2026, 23:14:31 +0200 : Prompt
+
+<!-- feedback-event:fbcd7dd9179a97a7affb13dc4471d43fdf4ddeca6e67e48fa7b690e3fd0c22d4 (8 October 2026, 23:14:31 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (8 October 2026, 23:14:31 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (8 October 2026, 23:14:31 +0200)
+
+> 3 tests easeOutBack de 0,25 s, 0,5 s et 1 s c'était pour le son imbecile go. je veux juste 5 secondes de tests go rapidement en parallèles fais tout (8 October 2026, 23:14:31 +0200)
+
+## 8 October 2026, 23:15:17 +0200 : Iteration
+
+<!-- feedback-event:26eca9db7814336a55bd862634c37995b986a2f12af740186a335784b5dc85f6 (8 October 2026, 23:15:17 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (8 October 2026, 23:15:17 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (8 October 2026, 23:15:17 +0200)
+
+> Compris : l'easeOutBack de 0,25 / 0,5 / 1 s portait sur le fade in du son. J'ai donc fait 3 tests de 5 s, musique dès 3:36, en parallèle. (8 October 2026, 23:15:17 +0200)
+>
+> Chaque test reprend l'intro avec le titre. Seule la durée du fade in change, avec une courbe easeOutBack qui dépasse un peu le volume final (environ +10 %) avant de se stabiliser. Les fichiers sont `intro_music_fade_0.25s.mp4`, `intro_music_fade_0.5s.mp4` et `intro_music_fade_1.0s.mp4`, dans `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/`. (8 October 2026, 23:15:17 +0200)
+>
+> - **Vérifié :** chaque fichier fait 5,000 s, avec la vidéo en HEVC et le son en AAC. Je n'ai pas écouté le résultat, c'est à toi de juger la courbe. (8 October 2026, 23:15:17 +0200)
+> - **Musique :** j'ai téléchargé le morceau en mp3 via yt-dlp, depuis la chaîne « Lord Of Chill » (le résultat de recherche). Il dure 5:35 alors que ton capture indiquait 5:32 : dis-moi si ce n'est pas la bonne version. (8 October 2026, 23:15:17 +0200)
+> - **Titre :** tous les tests utilisent la même entrée de titre (easing de 0,5 s), puisque seul le son varie. (8 October 2026, 23:15:17 +0200)
+>
+> Dis-moi lequel des trois fades tu valides. Je mixe alors la musique sur les 10 s, avec la fin du son à régler, et je sors la vidéo finale avec le titre. La publication reste à confirmer. (8 October 2026, 23:15:17 +0200)
+
+## 8 October 2026, 23:20:12 +0200 : Prompt
+
+<!-- feedback-event:cc61acfd9bbd035a77098955ab31392f8f784c0aeedec391eeb03a7802c57ca0 (8 October 2026, 23:20:12 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (8 October 2026, 23:20:12 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (8 October 2026, 23:20:12 +0200)
+
+> tu n'as plus le mouvement d'animation du titre en jaune ? c'était connexions croisés je crois par contre pas de paranthèses sur le titre (uniformation pour un maximum d'espace)  (8 October 2026, 23:20:12 +0200)
+> thumbnail = avec le titre + vidéo 2 au niveau du poisson motif centré. (8 October 2026, 23:20:12 +0200)
+> et mouvement gauche à droite en en bas sur l'apparition +  (8 October 2026, 23:20:12 +0200)
+>
+> uniformise les 2 vidéos à 7.5 secondes. donc 15 secondes. (8 October 2026, 23:20:12 +0200)
+> fais une variation à 10+10 = 20 secondes. lors de la transition met un boost de son effet cinéma. (8 October 2026, 23:20:12 +0200)
+>
+> supprime les autres vidéos pour l'instant on est encore en tests je garde 0.25 de fade in et out niveau son. (8 October 2026, 23:20:12 +0200)
+>
+> continue d'index via .md /zenray-assets (8 October 2026, 23:20:12 +0200)
+
+## 8 October 2026, 23:21:11 +0200 : Iteration
+
+<!-- feedback-event:69f83e09adaa7bdffb6950dff2f39c0e347e5f976421b8fe95c556949bc170b0 (8 October 2026, 23:21:11 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (8 October 2026, 23:21:11 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (8 October 2026, 23:21:11 +0200)
+
+> Le rendu du titre cherche une version de Chromium absente ; je pointe vers celle qui est installée (1234) sans rien télécharger. (8 October 2026, 23:21:11 +0200)
+
+## 8 October 2026, 23:21:40 +0200 : Prompt
+
+<!-- feedback-event:cd45ce1991b835c1243cafdbaefe804b43cfcfe65cc5fc348713c31ad4fe99b2 (8 October 2026, 23:21:40 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (8 October 2026, 23:21:40 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (8 October 2026, 23:21:40 +0200)
+
+> [Image: original 2160x480, displayed at 2000x444. Multiply coordinates by 1.08 to map to original image.] (8 October 2026, 23:21:40 +0200)
+
+## 8 October 2026, 23:27:36 +0200 : Iteration
+
+<!-- feedback-event:ed28f76adca8d685c5f414db8f8b8507b1c3f9afc27c4bfb5bd0ea81ecbf25f9 (8 October 2026, 23:27:36 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (8 October 2026, 23:27:36 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (8 October 2026, 23:27:36 +0200)
+
+> Le titre est décalé trop bas : la 3e ligne sort de l'image. Je mesure l'emprise exacte du titre et je recalcule le décalage. (8 October 2026, 23:27:36 +0200)
+
+## 8 October 2026, 23:29:29 +0200 : Iteration
+
+<!-- feedback-event:4205af8a96a7d697ad299508b23262c40e714a2b6a183f0376b0371d6b0edbc7 (8 October 2026, 23:29:29 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (8 October 2026, 23:29:29 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (8 October 2026, 23:29:29 +0200)
+
+> La 3e ligne n'apparaissait jamais : avec 3 lignes, le décalage entre lignes dépassait la durée d'apparition. Je le réduis, je re-rends le titre puis les montages. (8 October 2026, 23:29:29 +0200)
+
+## 8 October 2026, 23:31:29 +0200 : Iteration
+
+<!-- feedback-event:3f5d9c83c4fbc7ea37b4fb86285911af6abcf30b63fa00b860acf733ad26f4c1 (8 October 2026, 23:31:29 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (8 October 2026, 23:31:29 +0200)
+- Source: checkpoint:claude:fa4b854c-d32b-463e-9994-34b34d998356. (8 October 2026, 23:31:29 +0200)
+
+> Montages 15 s (7,5+7,5) et 20 s (10+10): B puis A, grade C, titre crossconnections jaune 3 lignes sans parentheses en bas, musique 3:36 fade 0,25 s easeOutBack in/out, boost cinema au raccord, miniature poisson centre. Anciennes videos de test supprimees. Index: Memory1/Projects/<id>/MontageIndex.md. Prochain: choix 15 s ou 20 s, publication apres accord. (8 October 2026, 23:31:29 +0200)
+
+## 8 October 2026, 23:31:46 +0200 : Iteration
+
+<!-- feedback-event:728d45f15c34d9e9da0876dd67661908d862da650b7cb45cf14588b24f6f3889 (8 October 2026, 23:31:46 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (8 October 2026, 23:31:46 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (8 October 2026, 23:31:46 +0200)
+
+> Les montages de 15 s et de 20 s sont rendus, avec le titre, la musique et la miniature. Je n'ai pas écouté le résultat, donc le son (et le boost du raccord) reste à juger par toi. Rien n'est publié. (8 October 2026, 23:31:46 +0200)
+>
+> - **Titre :** l'animation « connexions croisées » est de retour, en Vogun jaune (Yu Mincho pour 鯉陶器). Les 3 lignes sont sans parenthèses (« Koi Tōki ») et à largeur égale, 80 % de l'image. Apparition 1 s, reste 2 s, sortie 1 s, placé en bas, avec une révélation de gauche à droite. (8 October 2026, 23:31:46 +0200)
+> - **Vidéos uniformes :** les deux tournent à vitesse constante sur 7,5 s chacune (15 s en tout), et sur 10 s chacune (20 s en tout). La vidéo B passe en premier, grade C appliqué partout. (8 October 2026, 23:31:46 +0200)
+> - **Son :** musique dès 3:36, avec 0,25 s de fade in et de fade out. Au raccord, une montée de bruit de 0,9 s et un impact grave, pendant que la musique baisse brièvement. Je n'ai pas contrôlé le niveau du boost à l'oreille. (8 October 2026, 23:31:46 +0200)
+> - **Miniature :** le titre sur la vidéo B, au moment où le poisson est centré. Le titre recouvre un peu le bas du poisson, parce que 3 lignes à largeur maximale tiennent difficilement sous le pot. (8 October 2026, 23:31:46 +0200)
+> - **Nettoyage :** les anciennes vidéos de test sont supprimées. Je garde les clips uniformes sans son (`u/`) et les sources. (8 October 2026, 23:31:46 +0200)
+> - **Index :** `MontageIndex.md` est écrit dans le projet (sources, recette, paramètres, décisions). Le checkpoint Assets est enregistré, mais la sauvegarde cloud n'est pas confirmée. (8 October 2026, 23:31:46 +0200)
+>
+> Ta phrase « mouvement gauche à droite en bas sur l'apparition + » s'arrête en plein milieu. Je l'ai lue comme « titre en bas, révélé de gauche à droite ». Dis-moi s'il manquait autre chose. (8 October 2026, 23:31:46 +0200)
+>
+> La vidéo de 20 s (36 Mo) est trop lourde pour l'envoi mobile, elle n'est visible que dans l'app desktop. Les fichiers sont dans `/Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/` : `montage_15s_gradeC_titre_musique.mp4`, `montage_20s_gradeC_titre_musique.mp4` et `thumbnail_titre_poisson_centre.png`. (8 October 2026, 23:31:46 +0200)
+>
+> Dis-moi quelle durée tu gardes (15 s ou 20 s), si le boost du raccord te va, et sur quelle plateforme je publie avec ton feu vert explicite. (8 October 2026, 23:31:46 +0200)
+>
+> Ta consigne en plus court : « Uniformise les deux vidéos à 7,5 s et à 10 s, mets le titre connexions croisées en bas et la musique avec boost au raccord, fais la miniature, supprime les anciens tests. » (8 October 2026, 23:31:46 +0200)
