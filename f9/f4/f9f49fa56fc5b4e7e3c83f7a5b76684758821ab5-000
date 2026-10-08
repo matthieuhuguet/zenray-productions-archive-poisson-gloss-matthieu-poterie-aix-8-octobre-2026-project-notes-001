@@ -1,0 +1,23 @@
+{
+ "schemaVersion": 1,
+ "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
+ "scannedAt": "2026-10-08T20:24:33.268Z",
+ "conversations": [
+  {
+   "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
+   "lines": 22,
+   "work": 6,
+   "prompts": 0,
+   "first": "2026-10-08T20:14:13.015Z",
+   "last": "2026-10-08T20:23:39.507Z",
+   "strength": "strong",
+   "conversationId": "claude:fa4b854c-d32b-463e-9994-34b34d998356",
+   "provider": "claude",
+   "sessionId": "fa4b854c-d32b-463e-9994-34b34d998356",
+   "title": "Montage vidéo pot tournage",
+   "updatedAt": "2026-10-08T20:23:42.504Z",
+   "bytes": 20720,
+   "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
+  }
+ ]
+}
