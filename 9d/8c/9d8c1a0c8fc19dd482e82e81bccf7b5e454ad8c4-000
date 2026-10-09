@@ -2237,3 +2237,58 @@
 > 1. **Origine du décalage initial :** (9 October 2026, 17:37:34 +0200)
 >    L'église a une demi-largeur de `3.2785 m` et une hauteur de pignon de `3.934 m`. Sa pente nominale vaut exactement `3.934 / 3.2785 = 1.2000` (50,19°). (9 October 2026, 17:37:34 +0200)
 >    Le nœud `Component_Roof` prenait (9 October 2026, 17:37:34 +0200)
+
+## 9 October 2026, 20:11:34 +0200 : Prompt
+
+<!-- feedback-event:01a4e43ed7b9bb5a26d551ef895fe09d35185bf4214cdd8cde2a092f2292d635 (9 October 2026, 20:11:34 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 20:11:34 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/2b7a9671-4eab-431a-9060-024382e6391a.db. (9 October 2026, 20:11:34 +0200)
+
+> t'as pad du tout remis la vue cycles dans le viewport (9 October 2026, 20:11:34 +0200)
+
+## 9 October 2026, 20:13:41 +0200 : Iteration
+
+<!-- feedback-event:a8e2e622a67d3df147f4d1c5032d42a2af12dda257b5c62c94960a7e7da584a3 (9 October 2026, 20:13:41 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 20:13:41 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/2b7a9671-4eab-431a-9060-024382e6391a.db. (9 October 2026, 20:13:41 +0200)
+
+> L'onglet **Cycles** (`panetab2`, vue `/stage`) tournait bien en arrière-plan, mais c'était le premier onglet `Scene View` (`panetab1`, vue `/obj` en OpenGL) qui était resté actif au premier plan sur ton écran, masquant ainsi le rendu. (9 October 2026, 20:13:41 +0200)
+>
+> ### Action exécutée (09 October 2026) (9 October 2026, 20:13:41 +0200)
+>
+> 1. **Bascule immédiate au premier plan :** `panetab2.setIsCurrentTab()` a activé l'onglet Solaris/Cycles au premier plan dans ton interface Houdini. (9 October 2026, 20:13:41 +0200)
+> 2. **Relance du moteur :** `v.setRendererPaused(False)` et `v.restartRenderer()` ont été appelés sur `panetab2`. Le viewport affiche désormais directement le rendu interactif `Cycles Persp`. (9 October 2026, 20:13:41 +0200)
+> 3. **Persistance :** La scène [`LouisianaBayou.hiplc`](file:///Users/zenray/Create/Build/Productions/ZenRayHoudini/LouisianaBayou/LouisianaBayou.hiplc) a été réenregistrée avec cet onglet actif par défaut. (9 October 2026, 20:13:41 +0200)
+>
+> --- (9 October 2026, 20:13:41 +0200)
+>
+> ### Tableau récapitulatif (9 October 2026, 20:13:41 +0200)
+>
+> | Ce que tu voulais | Fait | Preuve mesurée | (9 October 2026, 20:13:41 +0200)
+> |---|---|---| (9 October 2026, 20:13:41 +0200)
+> | Afficher la vue Cycles dans le viewport | Oui | `panetab2` mis en premier plan avec `setIsCurrentTab()`, `isCurrentTab = True`, moteur `Cycles` actif et non suspendu | (9 October 2026, 20:13:41 +0200)
+> | Relancer le calcul de rendu Cycles | Oui | `setRendererPaused(False)` et `restartRenderer()` confirmés en direct via le pont HOM | (9 October 2026, 20:13:41 +0200)
+> | Enregistrer l'état de l'interface | Oui | Scène `LouisianaBayou.hiplc` sauvegardée avec la vue `/stage` au premier plan | (9 October 2026, 20:13:41 +0200)
+
+## 9 October 2026, 20:15:52 +0200 : Prompt
+
+<!-- feedback-event:d6b0ed775abb481dd8ab71d45f49dfbbeeb6025ea4d15c96860b61a98283117d (9 October 2026, 20:15:52 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 20:15:52 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/2b7a9671-4eab-431a-9060-024382e6391a.db. (9 October 2026, 20:15:52 +0200)
+
+> c'est pas bon du tout c'est quand même pas du de mettre la pente du toit et le mur à la même hauteur de manière synchrone putain ... (9 October 2026, 20:15:52 +0200)
+
+## 9 October 2026, 20:21:12 +0200 : Iteration
+
+<!-- feedback-event:ead54fa8526caf324747b34fce0323388bf3d0dc8a8ffc9e3c4011ac59a4e54c (9 October 2026, 20:21:12 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 20:21:12 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/2b7a9671-4eab-431a-9060-024382e6391a.db. (9 October 2026, 20:21:12 +0200)
+
+> C'est corrigé et maintenant **100% synchronisé de manière automatique par expression**. (9 October 2026, 20:21:12 +0200)
+>
+> --- (9 October 2026, 20:21:12 +0200)
+>
+> ### La cause exacte de ce que tu voyais sur ta capture (9 October 2026, 20:21:12 +0200)
+>
+> 1. **Le problème sur ta capture :** Le toit descendait trop bas le long du mur parce qu'une valeur manuelle (`3.17 m`) avait décalé la ligne de départ du toit sous le haut des murs (`3.607 m`). Résultat : les planches de rive coupaient les poteaux d'angle 40 cm trop bas. (9 October 2026, 20:21:12 +0200)
+> 2. **Ce que tu voulais :** Que le toit démarre **exactement à la même hauteur que le haut du mur** ( (9 October 2026, 20:21:12 +0200)
