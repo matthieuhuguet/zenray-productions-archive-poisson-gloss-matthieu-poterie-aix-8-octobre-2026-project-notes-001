@@ -2209,3 +2209,31 @@
 > [$zenray-assets](/Users/zenray/.codex/skills/zenray-assets/SKILL.md) louisiana bayou reprenons la dernieres tâches tu peux lire les derniers log de l'agent claude via la conversation liés PENTE" grep la pente du toit est pas parfaitement aligné avec la hauteur du la church / change uniquement la hauteur de la church du coup stp soit hyper clean get grep and fix fast puis remet la vue cycles go ...  (9 October 2026, 16:46:12 +0200)
 >
 >  tant que c'est pas parfait (9 October 2026, 16:46:12 +0200)
+
+## 9 October 2026, 17:37:34 +0200 : Iteration
+
+<!-- feedback-event:4462371fdd3426ba518afb473cf9557c54ee5871dee7f83b5a24104773a0d690 (9 October 2026, 17:37:34 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 17:37:34 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/2b7a9671-4eab-431a-9060-024382e6391a.db. (9 October 2026, 17:37:34 +0200)
+
+> ### 1. SFX du projet poisson (08 October 2026) (9 October 2026, 17:37:34 +0200)
+>
+> Le fichier audio validé lors de la session du 08 October 2026 sur le projet `poisson-gloss-matthieu-poterie-aix-8-octobre-2026` est accessible aux emplacements suivants : (9 October 2026, 17:37:34 +0200)
+>
+> - **Fichier FLAC validé (F1 Trigger -20 ms) :** (9 October 2026, 17:37:34 +0200)
+>   [`F1_Trigger_minus20ms.flac`](file:///Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/sound-botw-interact/final/F1_Trigger_minus20ms.flac) (9 October 2026, 17:37:34 +0200)
+> - **Version non compressée WAV 24 bits :** (9 October 2026, 17:37:34 +0200)
+>   [`F1_Trigger_minus20ms.wav`](file:///Users/zenray/.claude/tmp/tmp-poisson-gloss-matthieu-poterie-aix-8-octobre-2026/sound-botw-interact/final/F1_Trigger_minus20ms.wav) (9 October 2026, 17:37:34 +0200)
+> - **Copie permanente dans les assets du skill :** (9 October 2026, 17:37:34 +0200)
+>   [`F1_Trigger_minus20ms.flac`](file:///Users/zenray/.claude/skills/zenray-edit/assets/sound/F1_Trigger_minus20ms.flac) (9 October 2026, 17:37:34 +0200)
+> - **Second son physique (Sound design du volet qui grince) :** (9 October 2026, 17:37:34 +0200)
+>   Stéréo 48 kHz synthétisé par 4 couches physiques (fondamentale 70 Hz, 60 chocs de Poisson non-homogènes excitant une plaque métallique inharmonique, frottement biquad 1.4 à 3.6 kHz et claquements à 88, 205, 478 et 915 Hz). (9 October 2026, 17:37:34 +0200)
+>
+> --- (9 October 2026, 17:37:34 +0200)
+>
+> ### 2. Diagnostic des logs Claude et Codex sur la pente de l'église (9 October 2026, 17:37:34 +0200)
+>
+> Dans les logs Claude (`2562b086`) et Codex (`rollout-2026-10-09T16-33-50`) : (9 October 2026, 17:37:34 +0200)
+> 1. **Origine du décalage initial :** (9 October 2026, 17:37:34 +0200)
+>    L'église a une demi-largeur de `3.2785 m` et une hauteur de pignon de `3.934 m`. Sa pente nominale vaut exactement `3.934 / 3.2785 = 1.2000` (50,19°). (9 October 2026, 17:37:34 +0200)
+>    Le nœud `Component_Roof` prenait (9 October 2026, 17:37:34 +0200)

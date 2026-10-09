@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
- "scannedAt": "2026-10-09T14:54:19.427Z",
+ "scannedAt": "2026-10-09T15:39:30.882Z",
  "conversations": [
   {
    "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
@@ -53,18 +53,18 @@
   },
   {
    "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
-   "lines": 1,
-   "work": 1,
+   "lines": 2,
+   "work": 2,
    "prompts": 0,
    "first": "2026-10-09T14:45:03.465Z",
-   "last": "2026-10-09T14:45:03.465Z",
+   "last": "2026-10-09T15:37:34.572Z",
    "strength": "weak",
    "conversationId": "gemini:2b7a9671-4eab-431a-9060-024382e6391a",
    "provider": "gemini",
    "sessionId": "2b7a9671-4eab-431a-9060-024382e6391a",
    "title": "redonne moi le sfx de mon projet poisson 8 octobre",
-   "updatedAt": "2026-10-09T14:46:12.845978+00:00",
-   "bytes": 44688856,
+   "updatedAt": "2026-10-09T15:37:34.572088+00:00",
+   "bytes": 17104896,
    "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   }
  ]
