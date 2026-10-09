@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
- "scannedAt": "2026-10-09T13:47:13.514Z",
+ "scannedAt": "2026-10-09T14:50:19.364Z",
  "conversations": [
   {
    "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
@@ -21,18 +21,18 @@
   },
   {
    "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
-   "lines": 53,
-   "work": 26,
+   "lines": 55,
+   "work": 27,
    "prompts": 0,
    "first": "2026-10-08T20:46:58.275Z",
-   "last": "2026-10-09T11:13:08.211Z",
+   "last": "2026-10-09T14:00:45.481Z",
    "strength": "strong",
    "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
    "provider": "codex",
    "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
    "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-09T13:47:11.842Z",
-   "bytes": 704195320,
+   "updatedAt": "2026-10-09T14:41:22.107Z",
+   "bytes": 748014368,
    "boundProject": "zenray-assets-v2"
   },
   {
@@ -49,6 +49,22 @@
    "title": "Son Zelda modifications premium",
    "updatedAt": "2026-10-08T22:00:08.016Z",
    "bytes": 20649,
+   "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
+  },
+  {
+   "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
+   "lines": 1,
+   "work": 1,
+   "prompts": 0,
+   "first": "2026-10-09T14:45:03.465Z",
+   "last": "2026-10-09T14:45:03.465Z",
+   "strength": "weak",
+   "conversationId": "gemini:2b7a9671-4eab-431a-9060-024382e6391a",
+   "provider": "gemini",
+   "sessionId": "2b7a9671-4eab-431a-9060-024382e6391a",
+   "title": "redonne moi le sfx de mon projet poisson 8 octobre",
+   "updatedAt": "2026-10-09T14:46:12.845978+00:00",
+   "bytes": 36659400,
    "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   }
  ]
