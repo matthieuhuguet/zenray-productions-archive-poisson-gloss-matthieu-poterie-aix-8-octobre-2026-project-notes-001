@@ -2292,3 +2292,37 @@
 >
 > 1. **Le problème sur ta capture :** Le toit descendait trop bas le long du mur parce qu'une valeur manuelle (`3.17 m`) avait décalé la ligne de départ du toit sous le haut des murs (`3.607 m`). Résultat : les planches de rive coupaient les poteaux d'angle 40 cm trop bas. (9 October 2026, 20:21:12 +0200)
 > 2. **Ce que tu voulais :** Que le toit démarre **exactement à la même hauteur que le haut du mur** ( (9 October 2026, 20:21:12 +0200)
+
+## 9 October 2026, 21:53:54 +0200 : Prompt
+
+<!-- feedback-event:493ef9403ae4edec66c8084c4397904b5e8ded399ca51ac677a24c39c10b0445 (9 October 2026, 21:53:54 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: prompt. (9 October 2026, 21:53:54 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/2b7a9671-4eab-431a-9060-024382e6391a.db. (9 October 2026, 21:53:54 +0200)
+
+> dans obj désactive ce manny c'est très chiant ... (9 October 2026, 21:53:54 +0200)
+
+## 9 October 2026, 21:58:17 +0200 : Iteration
+
+<!-- feedback-event:5ade7b6bb58691a50bf7a5675788305fc5c179a33cc86ee42598a865eab9864c (9 October 2026, 21:58:17 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 21:58:17 +0200)
+- Source: /Users/zenray/.gemini/antigravity/conversations/2b7a9671-4eab-431a-9060-024382e6391a.db. (9 October 2026, 21:58:17 +0200)
+
+> C'est fait, les mannequins Manny sont désactivés dans `/obj`. (9 October 2026, 21:58:17 +0200)
+>
+> ### Modifications effectuées (09 October 2026) (9 October 2026, 21:58:17 +0200)
+>
+> 1. **Drapeaux d'affichage coupés :** (9 October 2026, 21:58:17 +0200)
+>    - `/obj/Manny_ScaleRef` : drapeau d'affichage désactivé (`setDisplayFlag(False)`) (9 October 2026, 21:58:17 +0200)
+>    - `/obj/Manny_LowLOD_fbx` : drapeau d'affichage désactivé (`setDisplayFlag(False)`) (9 October 2026, 21:58:17 +0200)
+> 2. **Viewport rafraîchi :** Le mannequin orange ne s'affiche plus dans la vue de travail `/obj`. (9 October 2026, 21:58:17 +0200)
+> 3. **Persistance :** La scène [`LouisianaBayou.hiplc`](file:///Users/zenray/Create/Build/Productions/ZenRayHoudini/LouisianaBayou/LouisianaBayou.hiplc) est enregistrée. (9 October 2026, 21:58:17 +0200)
+>
+> --- (9 October 2026, 21:58:17 +0200)
+>
+> ### Tableau récapitulatif (9 October 2026, 21:58:17 +0200)
+>
+> | Ce que tu voulais | Fait | Preuve mesurée | (9 October 2026, 21:58:17 +0200)
+> |---|---|---| (9 October 2026, 21:58:17 +0200)
+> | Désactiver Manny dans `/obj` | Oui | `Manny_ScaleRef.isDisplayFlagSet() = False` et `Manny_LowLOD_fbx.isDisplayFlagSet() = False` vérifiés | (9 October 2026, 21:58:17 +0200)
+> | Nettoyer la vue de travail | Oui | Les deux nœuds Manny sont retirés de la liste des objets visibles de `/obj` | (9 October 2026, 21:58:17 +0200)
+> | Sauvegarder la scène | Oui | Fichier `LouisianaBayou.hiplc` réenregistré sur disque | (9 October 2026, 21:58:17 +0200)

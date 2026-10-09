@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
- "scannedAt": "2026-10-09T19:46:31.061Z",
+ "scannedAt": "2026-10-09T20:18:15.709Z",
  "conversations": [
   {
    "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
@@ -31,8 +31,8 @@
    "provider": "codex",
    "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
    "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-09T19:45:59.070Z",
-   "bytes": 777766903,
+   "updatedAt": "2026-10-09T20:17:17.329Z",
+   "bytes": 786922986,
    "boundProject": "zenray-assets-v2"
   },
   {
@@ -63,8 +63,8 @@
    "provider": "gemini",
    "sessionId": "2b7a9671-4eab-431a-9060-024382e6391a",
    "title": "Conversation Gemini 2b7a9671",
-   "updatedAt": "2026-10-09T18:22:17.901Z",
-   "bytes": 21364736,
+   "updatedAt": "2026-10-09T19:59:07.623Z",
+   "bytes": 22183936,
    "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   }
  ]
