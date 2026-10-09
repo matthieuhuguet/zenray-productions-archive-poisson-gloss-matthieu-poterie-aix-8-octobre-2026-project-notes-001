@@ -2158,3 +2158,18 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:48:39 +0200)
 
 > relance l'archive du projet (9 October 2026, 00:48:39 +0200)
+
+## 9 October 2026, 00:57:48 +0200 : Iteration
+
+<!-- feedback-event:fc4e64b544e3a01ed935b713fbf28e93050f889b0c9169f20ac3f90050e349c9 (9 October 2026, 00:57:48 +0200) -->
+- Project: poisson-gloss-matthieu-poterie-aix-8-octobre-2026; kind: iteration. (9 October 2026, 00:57:48 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/fa4b854c-d32b-463e-9994-34b34d998356.jsonl. (9 October 2026, 00:57:48 +0200)
+
+> L'archive est relancée et presque terminée : 323 fichiers sur 325 sont sauvegardés, mais aucune vérification cloud n'est enregistrée. (9 October 2026, 00:57:48 +0200)
+>
+> - **Sauvegardé :** la v7, la miniature validée, les scripts, les titres, les sons, les archives des anciennes vidéos et `FEEDBACK.md`. Le service a comparé le SHA256 et la taille de la v7 avec l'inventaire local. (9 October 2026, 00:57:48 +0200)
+> - **Encore en attente (2 fichiers) :** `ConversationIndex.json` et `ConversationIndex.md`. Le service les réécrit à chaque message de cette conversation, donc ils changent pendant la copie. Ils se sauvegarderont tout seuls quand la session sera fermée. (9 October 2026, 00:57:48 +0200)
+> - **Pas de preuve cloud :** le compteur de fichiers vérifiés est à 0 et la date de dernière vérification est vide. Ce que j'ai, c'est que le job d'archive s'est terminé sans erreur et que les empreintes locales concordent. Je ne peux donc pas t'affirmer « sauvegarde vérifiée dans le cloud ». (9 October 2026, 00:57:48 +0200)
+> - **Une erreur en route :** le premier job a échoué (« Source changed since inventory ») pour la même raison. Je l'ai relancé en deux passes, d'abord sur les fichiers stables, puis sur le reste. (9 October 2026, 00:57:48 +0200)
+>
+> Si tu veux fermer proprement : ferme la session, puis relance `Client.mjs status poisson-gloss-matthieu-poterie-aix-8-octobre-2026`. Les 2 fichiers devraient passer à 0 en attente. Dis-moi si tu veux que je refasse la vérification à ce moment-là. (9 October 2026, 00:57:48 +0200)
