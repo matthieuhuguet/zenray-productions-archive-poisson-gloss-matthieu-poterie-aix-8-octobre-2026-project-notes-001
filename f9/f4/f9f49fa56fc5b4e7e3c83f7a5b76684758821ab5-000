@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
- "scannedAt": "2026-10-10T11:05:57.888Z",
+ "scannedAt": "2026-10-10T12:49:05.361Z",
  "conversations": [
   {
    "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
@@ -21,18 +21,18 @@
   },
   {
    "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
-   "lines": 57,
-   "work": 28,
+   "lines": 59,
+   "work": 29,
    "prompts": 0,
    "first": "2026-10-08T20:46:58.275Z",
-   "last": "2026-10-09T19:16:05.642Z",
+   "last": "2026-10-10T11:36:48.656Z",
    "strength": "strong",
    "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
    "provider": "codex",
    "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
    "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-10T11:05:39.944Z",
-   "bytes": 849321177,
+   "updatedAt": "2026-10-10T12:48:59.538Z",
+   "bytes": 878903521,
    "boundProject": "zenray-assets-v2"
   },
   {
@@ -62,8 +62,8 @@
    "conversationId": "gemini:2b7a9671-4eab-431a-9060-024382e6391a",
    "provider": "gemini",
    "sessionId": "2b7a9671-4eab-431a-9060-024382e6391a",
-   "title": "Conversation Gemini 2b7a9671",
-   "updatedAt": "2026-10-09T19:59:07.623Z",
+   "title": "redonne moi le sfx de mon projet poisson 8 octobre",
+   "updatedAt": "2026-10-09T19:58:17.855593+00:00",
    "bytes": 22183936,
    "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   }
