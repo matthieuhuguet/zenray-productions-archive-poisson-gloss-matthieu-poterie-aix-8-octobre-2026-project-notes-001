@@ -1,0 +1,7 @@
+# poisson-gloss-matthieu-poterie-aix-8-octobre-2026 : rules, append only (12 October 2026)
+
+Standing rules of this project, one line each, loaded automatically at session start. Full history and context: FEEDBACK.md in this folder. A rule that changes gets a new line citing the old one. (12 October 2026)
+
+- Matthieu (8 October 2026) : sauvegarder le protocole du son BotW Interact jusqu'à F1_Trigger_minus20ms.flac dans zenray-edit (section Sound Design / Edit Sound) et ne rien sauvegarder après, car les essais suivants ne fonctionnent pas ; ranger tous les sons restants dans ce projet avec index mapping et déplacer proprement tout le tmp. Fait : skill zenray-edit mis à jour (SoundF1.py reproduit F1 à l'octet près, SoundDesign.md, assets/sound/F1), dossier déplacé dans sound-botw-interact/, SoundIndex.md écrit. (8 October 2026) <!-- rule:5c7aaca44a39 -->
+- Règle : retirer le SFX F1_Trigger_minus20ms, garder Mail Open (disparition de Before). Recalculer tout depuis les vidéos sources (B 7,5 s, A 12,5 s), grading compris. (9 October 2026) <!-- rule:daae64824ff3 -->
+- Règle : AUCUN zoom VFX dans le montage (ni avance lente, ni coups sur les temps, ni zoom au raccord). Garder le reste de la v6 (sous-titres lettre par lettre sur le tempo, sources sans fantômes). (9 October 2026) <!-- rule:842e17ade23a -->
