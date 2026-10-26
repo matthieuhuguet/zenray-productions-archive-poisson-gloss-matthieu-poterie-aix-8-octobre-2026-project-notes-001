@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
- "scannedAt": "2026-10-10T20:56:26.842Z",
+ "scannedAt": "2026-10-26T12:57:53.260Z",
  "conversations": [
   {
    "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
@@ -18,22 +18,6 @@
    "updatedAt": "2026-10-08T22:57:52.446Z",
    "bytes": 20711,
    "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
-  },
-  {
-   "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
-   "lines": 62,
-   "work": 30,
-   "prompts": 0,
-   "first": "2026-10-08T20:46:58.275Z",
-   "last": "2026-10-10T17:29:18.218Z",
-   "strength": "strong",
-   "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
-   "provider": "codex",
-   "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
-   "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-10T18:43:51.851Z",
-   "bytes": 1030623008,
-   "boundProject": "zenray-assets-v2"
   },
   {
    "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
@@ -66,6 +50,38 @@
    "updatedAt": "2026-10-09T19:59:07.623Z",
    "bytes": 22183936,
    "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
+  },
+  {
+   "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
+   "lines": 1,
+   "work": 1,
+   "prompts": 0,
+   "first": "2026-10-14T20:44:29.431Z",
+   "last": "2026-10-14T20:44:29.431Z",
+   "strength": "weak",
+   "conversationId": "gemini:dad216b8-610b-4279-a532-56e02644714d",
+   "provider": "gemini",
+   "sessionId": "dad216b8-610b-4279-a532-56e02644714d",
+   "title": "Conversation Gemini dad216b8",
+   "updatedAt": "2026-10-14T21:13:27.597Z",
+   "bytes": 11730944,
+   "boundProject": null
+  },
+  {
+   "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-11T22:39:43.577Z",
+   "last": "2026-10-11T22:40:52.468Z",
+   "strength": "weak",
+   "conversationId": "claude:af61e9e4-17cb-46aa-b66a-922874eb123f",
+   "provider": "claude",
+   "sessionId": "af61e9e4-17cb-46aa-b66a-922874eb123f",
+   "title": "ZENRAY ASSETS",
+   "updatedAt": "2026-10-11T22:51:54.267Z",
+   "bytes": 20972,
+   "boundProject": null
   }
  ]
 }
