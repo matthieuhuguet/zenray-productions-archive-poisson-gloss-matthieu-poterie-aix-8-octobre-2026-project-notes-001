@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
- "scannedAt": "2026-10-26T18:59:59.851Z",
+ "scannedAt": "2026-10-27T01:00:35.753Z",
  "conversations": [
   {
    "projectId": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026",
@@ -46,8 +46,8 @@
    "conversationId": "gemini:2b7a9671-4eab-431a-9060-024382e6391a",
    "provider": "gemini",
    "sessionId": "2b7a9671-4eab-431a-9060-024382e6391a",
-   "title": "redonne moi le sfx de mon projet poisson 8 octobre",
-   "updatedAt": "2026-10-09T19:58:17.855593+00:00",
+   "title": "Conversation Gemini 2b7a9671",
+   "updatedAt": "2026-10-09T19:59:07.623Z",
    "bytes": 22183936,
    "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   },
@@ -62,8 +62,8 @@
    "conversationId": "gemini:dad216b8-610b-4279-a532-56e02644714d",
    "provider": "gemini",
    "sessionId": "dad216b8-610b-4279-a532-56e02644714d",
-   "title": "zenray progress les fichiers n'ont pas de sous titres pourquoi ? bleach ? until grep -qE \"STAGE FAILED|Traceback|PROOF RED|FINISH FAILED|pub",
-   "updatedAt": "2026-10-14T21:12:45.577735+00:00",
+   "title": "Conversation Gemini dad216b8",
+   "updatedAt": "2026-10-14T21:13:27.597Z",
    "bytes": 11730944,
    "boundProject": null
   },
